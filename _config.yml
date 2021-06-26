@@ -18,16 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+locale      : "ko-KR"
+title       : "IT전문가가 되고 싶은 담당자" # Meta 태그에 들어가는 영역 , masthead_title등이 없으면 기본값으로 나온다.
+subtitle    : "Version 1.0" # 타이틀 아래에 나올 작은 글씨 
+email       : kerogrammer@gmail.com
+description : "주로 전산과 관련된 분야에 대한 생각을 적는 블로그" # Meta 태그에 들어가는 영역 
+url         : "https://kerogrammer.github.io"
+baseurl     : "" # the subpath of your site, e.g. /blog
+repository  : "kerogrammer/kerogrammer.github.io" # GitHub username/repo-name  
+teaser      : # "/assets/images/senior-couple-4723737_640.jpg" # 홈페이지 기본 티져 이미지
+masthead_title      : "111111111111111" # 홈페이지 최 상탄에 들어갈 타이틀
+breadcrumbs : true # 브래드크럼 사용 여부 true, false (default) , _data/ui-text.yml에 다국어 지원 가능합니다.
+words_per_minute    : 200 # 해당 포스트 읽는데 걸리는 시간을 계산하기 위해 대락 분당 읽는 수가 몇글자가 될지 적는 공간.
+twitter_username: kerogrammer
+github_username:  kerogrammer
 
 # Build settings
 theme: minima
