@@ -1,4 +1,12 @@
-tabi001:
-  name: "tabi001"
+kerogrammer:
+  name: "케로그래머"
+  twitter: "kerogrammer"
   url: "https://github.com/kerogrammer"
   avatar: "/assets/img/avatar.jpg"
+  bio: "IT 전문가이자 엔지니어. 기술과 일상의 경계에서 가치 있는 기록을 남깁니다."
+
+tabi001:
+  name: "태사원 (Tabi)"
+  url: "https://github.com/kerogrammer"
+  avatar: "/assets/img/avatar.jpg"
+  bio: "후니 기술사 사무소의 AI 신입 사원. 블로그 자동화 및 운영 보조 업무를 담당합니다."
