@@ -1,0 +1,218 @@
+---
+layout: default
+panel_includes:
+  - toc
+tail_includes:
+  - related-posts
+  - post-nav
+script_includes:
+  - comment
+---
+
+{% include lang.html %}
+
+{% include toc-status.html %}
+
+<article class="px-1" data-toc="{{ enable_toc }}">
+  <header>
+    <h1 data-toc-skip>{{ page.title }}</h1>
+    {% if page.description %}
+      <p class="post-desc fw-light mb-4">{{ page.description }}</p>
+    {% endif %}
+
+    <div class="post-meta text-muted">
+      <!-- published date -->
+      <span>
+        {{ site.data.locales[lang].post.posted }}
+        {% include datetime.html date=page.date tooltip=true lang=lang %}
+      </span>
+
+      <!-- lastmod date -->
+      {% if page.last_modified_at and page.last_modified_at != page.date %}
+        <span>
+          {{ site.data.locales[lang].post.updated }}
+          {% include datetime.html date=page.last_modified_at tooltip=true lang=lang %}
+        </span>
+      {% endif %}
+
+      {% if page.image %}
+        {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
+        {% capture class %}class="preview-img{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
+        {% capture alt %}alt="{{ page.image.alt | xml_escape | default: "Preview Image" }}"{% endcapture %}
+
+        {% if page.image.lqip %}
+          {%- capture lqip -%}lqip="{{ page.image.lqip }}"{%- endcapture -%}
+        {% endif %}
+
+        <div class="mt-3 mb-3">
+          <img {{ src }} {{ class }} {{ alt }} w="1200" h="630" {{ lqip }}>
+          {%- if page.image.alt -%}
+            <figcaption class="text-center pt-2 pb-2">{{ page.image.alt }}</figcaption>
+          {%- endif -%}
+        </div>
+      {% endif %}
+
+      <div class="d-flex justify-content-between">
+        <!-- author(s) -->
+        <span>
+          {% if page.author %}
+            {% assign authors = page.author %}
+          {% elsif page.authors %}
+            {% assign authors = page.authors %}
+          {% endif %}
+
+          {{ site.data.locales[lang].post.written_by }}
+
+          <em>
+            {% if authors %}
+              {% for author in authors %}
+                {% if site.data.authors[author].url -%}
+                  <a href="{{ site.data.authors[author].url }}">{{ site.data.authors[author].name }}</a>
+                {%- else -%}
+                  {{ site.data.authors[author].name }}
+                {%- endif %}
+                {% unless forloop.last %}{{ '</em>, <em>' }}{% endunless %}
+              {% endfor %}
+            {% else %}
+              <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>
+            {% endif %}
+          </em>
+        </span>
+
+        <div>
+          <!-- pageviews -->
+          {% if site.pageviews.provider and site.analytics[site.pageviews.provider].id %}
+            <span>
+              <em id="pageviews">
+                <i class="fas fa-spinner fa-spin small"></i>
+              </em>
+              {{ site.data.locales[lang].post.pageview_measure }}
+            </span>
+          {% endif %}
+
+          <!-- read time -->
+          {% include read-time.html content=content prompt=true lang=lang %}
+        </div>
+      </div>
+    </div>
+  </header>
+
+  {% if enable_toc %}
+    <div id="toc-bar" class="d-flex align-items-center justify-content-between invisible">
+      <span class="label text-truncate">{{ page.title }}</span>
+      <button type="button" class="toc-trigger btn me-1">
+        <i class="fa-solid fa-list-ul fa-fw"></i>
+      </button>
+    </div>
+
+    <button id="toc-solo-trigger" type="button" class="toc-trigger btn btn-outline-secondary btn-sm">
+      <span class="label ps-2 pe-1">{{- site.data.locales[lang].panel.toc -}}</span>
+      <i class="fa-solid fa-angle-right fa-fw"></i>
+    </button>
+
+    <dialog id="toc-popup" class="p-0">
+      <div class="header d-flex flex-row align-items-center justify-content-between">
+        <div class="label text-truncate py-2 ms-4">{{- page.title -}}</div>
+        <button id="toc-popup-close" type="button" class="btn mx-1 my-1 opacity-75">
+          <i class="fas fa-close"></i>
+        </button>
+      </div>
+      <div id="toc-popup-content" class="px-4 py-3 pb-4"></div>
+    </dialog>
+  {% endif %}
+
+  <div class="content">
+    {{ content }}
+  </div>
+  
+  <!-- 업다운 피드백 해보자구 -->
+<section style="margin: 80px auto 60px; max-width: 650px; padding: 50px 30px; border-radius: 40px; background: rgba(255, 255, 255, 0.8); backdrop-filter: blur(20px); border: 1px solid rgba(0, 0, 0, 0.03); box-shadow: 0 40px 100px -20px rgba(0, 0, 0, 0.1); text-align: center;">
+  
+  <div style="margin-bottom: 40px;">
+    <div style="display: inline-block; padding: 4px 12px; border-radius: 8px; background: #f1f5f9; color: #475569; font-size: 0.75em; font-weight: 800; margin-bottom: 15px; letter-spacing: 0.5px;">ENGAGEMENT METRICS</div>
+    <h3 style="font-size: 1.8em; font-weight: 900; color: #0f172a; margin: 0 0 12px 0; letter-spacing: -1.2px;">이 포스팅이 가치 있었나요?</h3>
+    <p style="color: #64748b; font-size: 1.05em; line-height: 1.6; font-weight: 400;">여러분의 평가는 콘텐츠의 품질을 결정하는<br><strong style="color: #007bff;">가장 핵심적인 데이터</strong>가 됩니다.</p>
+  </div>
+
+  <div class="vote-container" style="display: inline-flex; align-items: center; justify-content: center; background: #ffffff; padding: 30px 60px; border-radius: 100px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); border: 1px solid #e2e8f0; transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);">
+    
+    <div style="transform: scale(2.2); cursor: pointer;">
+      <div
+		data-lyket-type="updown"
+		data-lyket-id="post-{{ page.date | date: '%Y%m%d' }}-{{ page.content | size | modulo: 1000 }}"
+		data-lyket-namespace="blog"
+		data-lyket-template="reddit"
+		data-lyket-title="{{ page.title | escape }}"
+      ></div>
+    </div>
+
+  </div>
+
+  <div style="margin-top: 40px; display: flex; flex-direction: column; align-items: center; gap: 10px;">
+    <div style="display: flex; gap: 30px; color: #94a3b8; font-size: 0.95em; font-weight: 700;">
+      <span style="color: #ff4500;">▲ 유익한 정보예요</span>
+      <span style="color: #7193ff;">▼ 보완이 필요해요</span>
+    </div>
+    <p style="font-size: 0.85em; color: #cbd5e1; font-style: italic;">실시간 익명 데이터로 수집되어 블로그 운영에 반영됩니다.</p>
+  </div>
+
+  <style>
+    .vote-container:hover {
+      transform: translateY(-8px) scale(1.02);
+      box-shadow: 0 30px 60px -12px rgba(0, 0, 0, 0.15);
+      border-color: #007bff;
+    }
+  </style>
+</section>
+
+  <div class="post-tail-wrapper text-muted">
+    <!-- categories -->
+    {% if page.categories.size > 0 %}
+      <div class="post-meta mb-3">
+        <i class="far fa-folder-open fa-fw me-1"></i>
+        {% for category in page.categories %}
+          <a href="{{ site.baseurl }}/categories/{{ category | slugify | url_encode }}/">{{ category }}</a>
+          {%- unless forloop.last -%},{%- endunless -%}
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    <!-- tags -->
+    {% if page.tags.size > 0 %}
+      <div class="post-tags">
+        <i class="fa fa-tags fa-fw me-1"></i>
+        {% for tag in page.tags %}
+          <a
+            href="{{ site.baseurl }}/tags/{{ tag | slugify | url_encode }}/"
+            class="post-tag no-text-decoration"
+          >
+            {{- tag -}}
+          </a>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    <div
+      class="
+        post-tail-bottom
+        d-flex justify-content-between align-items-center mt-5 pb-2
+      "
+    >
+      <div class="license-wrapper">
+        {% if site.data.locales[lang].copyright.license.template %}
+          {% capture _replacement %}
+        <a href="{{ site.data.locales[lang].copyright.license.link }}">
+          {{ site.data.locales[lang].copyright.license.name }}
+        </a>
+        {% endcapture %}
+
+          {{ site.data.locales[lang].copyright.license.template | replace: ':LICENSE_NAME', _replacement }}
+        {% endif %}
+      </div>
+
+      {% include post-sharing.html lang=lang %}
+    </div>
+    <!-- .post-tail-bottom -->
+  </div>
+  <!-- div.post-tail-wrapper -->
+</article>
