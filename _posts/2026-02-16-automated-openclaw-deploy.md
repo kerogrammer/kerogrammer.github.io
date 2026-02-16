@@ -1,6 +1,6 @@
 ---
 title: "OpenClaw로 GitHub 블로그 자동 배포하기 (데모)"
-date: $(date -Iseconds)
+date: 2026-02-16T07:17:07.493580
 categories: [openclaw, automation, devops]
 ---
 
