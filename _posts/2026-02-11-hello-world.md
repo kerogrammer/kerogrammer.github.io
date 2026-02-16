@@ -1,6 +1,8 @@
 ---
 title: Hello World! 5년 만의 새로운 시작
 date: 2026-02-11 21:00:00 +0900
+image: /assets/img/posts/openclaw-thumb.svg
+
 categories:
   - Daily
 tags:
