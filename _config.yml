@@ -153,12 +153,6 @@ baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-robots-txt
-  - jekyll-seo-tag
-  - jekyll-archives
-
 kramdown:
   footnote_backlink: "&#8617;&#xfe0e;"
   syntax_highlighter: rouge
@@ -220,9 +214,6 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
-
-include:
-  - naverc4cac8a6a8b039ff79df0b007d58643b.html
 
 jekyll-archives:
   enabled: [categories, tags]
