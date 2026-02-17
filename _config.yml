@@ -47,7 +47,7 @@ webmaster_verifications:
   yandex: # fill in your Yandex verification code
   baidu: # fill in your Baidu verification code
   facebook: # fill in your Facebook verification code
-  naver: # 네이버 서치어드바이저 검증 코드 필요시 여기에 입력
+  naver: 1c4e137688d46052ea701a640c8ff0dd1a18b8c9 # 네이버 서치어드바이저 검증 완료
   daum: # 다음/티스토리 검색 등록용 코드
 
 # ↑ --------------------------
