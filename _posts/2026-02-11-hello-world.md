@@ -6,7 +6,6 @@ image:
   alt: "New Start with Laptop"
 categories: [General, Tech]
 tags: [Jekyll, Chirpy, Blog, GithubPages]
-pin: true
 ---
 
 ## 🚀 5년이라는 침묵을 깨고 다시 기록을 시작한다.
