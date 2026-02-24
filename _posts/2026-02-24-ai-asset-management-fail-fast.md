@@ -3,6 +3,9 @@ title: "개인 자산 관리를 AI 에이전트에게 맡겼다가 실패한(?) 
 date: 2026-02-24 23:00:00 +0900
 categories: [Tech, AI]
 tags: [AI, Notion, Excel, FailFast, Lean, 자산관리, 자동화, 회고]
+image:
+  path: https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop
+  alt: Data analytics and financial charts showing technology failure and insights.
 ---
 
 ## 🎬 프롤로그: "부기야, 내 자산 현황 좀 정리해줄래?"
