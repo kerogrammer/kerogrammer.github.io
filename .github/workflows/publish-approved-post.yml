@@ -1,0 +1,44 @@
+name: Publish Approved Post
+
+on:
+  workflow_dispatch:
+    inputs:
+      draft_file:
+        description: 'Path to draft file under _drafts/'
+        required: true
+        type: string
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate input
+        run: |
+          if [ ! -f "${{ github.event.inputs.draft_file }}" ]; then
+            echo "Draft file not found: ${{ github.event.inputs.draft_file }}"
+            exit 1
+          fi
+          if [[ "${{ github.event.inputs.draft_file }}" != _drafts/* ]]; then
+            echo "Only files under _drafts/ are allowed."
+            exit 1
+          fi
+
+      - name: Publish draft to _posts
+        run: |
+          mkdir -p _posts
+          BASENAME=$(basename "${{ github.event.inputs.draft_file }}")
+          mv "${{ github.event.inputs.draft_file }}" "_posts/$BASENAME"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add _drafts _posts
+          git commit -m "publish: approved post ${BASENAME}" || echo "No changes"
+          git push
