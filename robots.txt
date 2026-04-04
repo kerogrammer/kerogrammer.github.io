@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kerogrammer.github.io/sitemap.xml
