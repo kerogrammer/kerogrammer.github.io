@@ -1,0 +1,6 @@
+{% assign img_path = include.path %}
+{% if img_path == nil or img_path == "" %}
+  {% assign img_path = "/assets/img/posts/sample-post-image.png" %}
+{% endif %}
+
+<img src="{{ img_path }}" alt="{{ include.alt | default: 'image' }}" loading="lazy" />
