@@ -122,6 +122,26 @@ script_includes:
   {% endif %}
 
   <div class="content">
+    {% if page.series %}
+      <div class="series-nav" style="background: #f8fafc; padding: 1.5rem; border-radius: 12px; border: 1px solid #e2e8f0; border-left: 6px solid #3b82f6; margin-bottom: 2.5rem; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
+        <div style="font-size: 0.85em; font-weight: 700; color: #64748b; margin-bottom: 0.5rem; text-transform: uppercase; letter-spacing: 0.5px;">연재 시리즈</div>
+        <h4 style="margin-top: 0; margin-bottom: 1rem; font-weight: 800; font-size: 1.2rem; color: #0f172a;">📍 {{ page.series }}</h4>
+        <ul style="margin-bottom: 0; padding-left: 1.2rem; list-style-type: none;">
+          {% assign series_posts = site.posts | where: "series", page.series | reverse %}
+          {% for sp in series_posts %}
+            <li style="margin-bottom: 0.6rem; position: relative;">
+              <span style="position: absolute; left: -1.2rem; color: #94a3b8;">•</span>
+              {% if sp.url == page.url %}
+                <strong style="color: #3b82f6;">{{ sp.title }} <span style="font-size: 0.8em; margin-left: 4px; padding: 2px 6px; background: #dceafe; border-radius: 4px;">현재 글</span></strong>
+              {% else %}
+                <a href="{{ sp.url }}" style="color: #475569; text-decoration: none; transition: color 0.2s;">{{ sp.title }}</a>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+
     {{ content }}
   </div>
   
