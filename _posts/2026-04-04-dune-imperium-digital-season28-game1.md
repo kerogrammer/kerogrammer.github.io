@@ -5,7 +5,7 @@ date: 2026-04-04 14:30:00 +0900
 categories: [Game, Boardgame]
 tags: [듄임페리움, 듄임페리움디지털, 소규모전투, 시즌28, 헬레나리체스, 보드게임]
 image:
-  path: /assets/img/posts/2026-04-04-dune-imperium-digital-season28-game1/1-overview.png
+  path: /assets/img/posts/2026-04-04-dune-imperium-digital-season28-game1/1-overview.webp
   alt: 듄 임페리움 디지털판 시즌 28 게임 1 개요 화면
 description: "듄 임페리움 디지털판 소규모 전투 시즌 28 게임 1을 플레이한 기록입니다. 헬레나 리체스를 선택해 시즌 첫 게임을 진행했고, 규칙 모디파이어와 시즌 점수 구조를 실제 플레이 기준으로 정리했습니다."
 author: kerogrammer
@@ -16,7 +16,7 @@ series: "듄 임페리움 소규모전투 시즌 28"
 
 ## 시즌 28 게임 1 개요
 
-![시즌 28 게임 1 개요](/assets/img/posts/2026-04-04-dune-imperium-digital-season28-game1/1-overview.png)
+![시즌 28 게임 1 개요](/assets/img/posts/2026-04-04-dune-imperium-digital-season28-game1/1-overview.webp)
 
 게임 1 내용을 보니 규칙 모디파이어는 **"낭비하지 말라"**였습니다. 제국 열에 있는 각 프레멘 카드가 다음 효과를 획득합니다.
 
@@ -35,7 +35,7 @@ series: "듄 임페리움 소규모전투 시즌 28"
 
 ## 지도자는 헬레나 리체스 선택
 
-![지도자 선택 - 헬레나 리체스](/assets/img/posts/2026-04-04-dune-imperium-digital-season28-game1/2-leader-helena-richese.png)
+![지도자 선택 - 헬레나 리체스](/assets/img/posts/2026-04-04-dune-imperium-digital-season28-game1/2-leader-helena-richese.webp)
 
 지도자는 승률이 높은 **헬레나 리체스**를 선택했습니다. 헬레나 리체스의 강점은 다른 플레이어의 에이전트가 먼저 들어가 있어도 특정 칸에 진입할 수 있다는 점입니다.
 
@@ -43,7 +43,7 @@ series: "듄 임페리움 소규모전투 시즌 28"
 
 ## 1라운드 초반은 무난하게 출발
 
-![1라운드 진행 중](/assets/img/posts/2026-04-04-dune-imperium-digital-season28-game1/3-round1-progress.png)
+![1라운드 진행 중](/assets/img/posts/2026-04-04-dune-imperium-digital-season28-game1/3-round1-progress.webp)
 
 1라운드를 진행해 보니 시작 패가 아주 좋다고 보기는 어려웠습니다. 폭발적인 전개보다는 자원을 챙기고, 제국 열 카드 수집을 중심으로 기본기를 다지는 방향으로 운영했습니다.
 
@@ -51,7 +51,7 @@ series: "듄 임페리움 소규모전투 시즌 28"
 
 ## 프레멘 야영지 선택으로 덱 압축과 전투력 확보
 
-![프레멘 야영지 선택](/assets/img/posts/2026-04-04-dune-imperium-digital-season28-game1/4-fremen-camp-choice.png)
+![프레멘 야영지 선택](/assets/img/posts/2026-04-04-dune-imperium-digital-season28-game1/4-fremen-camp-choice.webp)
 
 규칙 모디파이어에 따라 프레멘 카드를 가져올 때 폐기 1장을 할 수 있었고, 저는 여기서 **프레멘 야영지**를 선택했습니다.
 
@@ -61,7 +61,7 @@ series: "듄 임페리움 소규모전투 시즌 28"
 
 ## 게임 결과는 3등
 
-![게임 결과 3등](/assets/img/posts/2026-04-04-dune-imperium-digital-season28-game1/5-result-third-place.png)
+![게임 결과 3등](/assets/img/posts/2026-04-04-dune-imperium-digital-season28-game1/5-result-third-place.webp)
 
 그렇게 네 명의 지도자들이 치고받고 한 결과, 이번 게임의 최종 순위는 **3등**이었습니다.
 
@@ -74,7 +74,7 @@ series: "듄 임페리움 소규모전투 시즌 28"
 
 ## 소규모 전투 점수는 15점
 
-![소규모 전투 점수는 15점](/assets/img/posts/2026-04-04-dune-imperium-digital-season28-game1/6-skirmish-score-15.png)
+![소규모 전투 점수는 15점](/assets/img/posts/2026-04-04-dune-imperium-digital-season28-game1/6-skirmish-score-15.webp)
 
 순위표 점수는 최종적으로 **15점**이었습니다.
 
@@ -90,7 +90,7 @@ series: "듄 임페리움 소규모전투 시즌 28"
 
 ## 종료 직후 랭킹은 694등
 
-![랭킹은 694등](/assets/img/posts/2026-04-04-dune-imperium-digital-season28-game1/7-ranking-694.png)
+![랭킹은 694등](/assets/img/posts/2026-04-04-dune-imperium-digital-season28-game1/7-ranking-694.webp)
 
 게임이 끝난 직후 랭킹을 보니 **694등**으로 나왔습니다.
 
