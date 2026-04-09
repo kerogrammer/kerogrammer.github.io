@@ -5,7 +5,7 @@ date: 2026-04-07 13:00:00 +0900
 categories: [Game, Boardgame]
 tags: [듄임페리움, 듄임페리움디지털, 소규모전투, 시즌28, 아먼드에카드, 보드게임]
 image:
-  path: /assets/img/posts/dune-imperium-digital-season28-game2/01-skirmish-rules.png
+  path: /assets/img/posts/dune-imperium-digital-season28-game2/01-skirmish-rules.webp
   alt: 듄 임페리움 디지털판 시즌 28 게임 2 개요 화면
 description: "듄 임페리움 디지털판 소규모 전투 시즌 28 게임 2를 아먼드 에카드 대공으로 플레이한 기록입니다. 하역 효과와 익스 확장 사이에서 갈등하다 결국 아쉬운 점수로 마무리했습니다."
 author: kerogrammer
@@ -16,7 +16,7 @@ series: "듄 임페리움 소규모전투 시즌 28"
 
 ## 시즌 28 게임 2 모디파이어 개요
 
-![시즌 28 게임 2 개요](/assets/img/posts/dune-imperium-digital-season28-game2/01-skirmish-rules.png)
+![시즌 28 게임 2 개요](/assets/img/posts/dune-imperium-digital-season28-game2/01-skirmish-rules.webp)
 
 이번 게임의 **규칙 모디파이어**는 **"똑딱똑딱"**이었습니다.
 - 각 플레이어가 **기폭 장치 기술**을 가지고 시작합니다.
@@ -31,7 +31,7 @@ series: "듄 임페리움 소규모전투 시즌 28"
 
 ## 지도자 선택: 아먼드 에카드 대공
 
-![지도자 선택 - 아먼드 에카드 대공](/assets/img/posts/dune-imperium-digital-season28-game2/02-leader-ecaz.png)
+![지도자 선택 - 아먼드 에카드 대공](/assets/img/posts/dune-imperium-digital-season28-game2/02-leader-ecaz.webp)
 
 점수 모디파이어를 보고 제가 고른 지도자는 **아먼드 에카드 대공**이었습니다. 
 
@@ -49,7 +49,7 @@ series: "듄 임페리움 소규모전투 시즌 28"
 
 ## 소규모 전투 최종 결과 
 
-![게임 결과 및 점수](/assets/img/posts/dune-imperium-digital-season28-game2/03-skirmish-result.png)
+![게임 결과 및 점수](/assets/img/posts/dune-imperium-digital-season28-game2/03-skirmish-result.webp)
 
 결국 이번 게임 2는 시원하게 망해버렸습니다. ㅠㅠ
 소규모 전투 최종 점수는 **단 6점**에 그쳤습니다.
@@ -62,7 +62,7 @@ series: "듄 임페리움 소규모전투 시즌 28"
 
 ## 시즌 전체 순위 및 마무리
 
-![시즌 랭킹](/assets/img/posts/dune-imperium-digital-season28-game2/04-season-ranking.png)
+![시즌 랭킹](/assets/img/posts/dune-imperium-digital-season28-game2/04-season-ranking.webp)
 
 게임 2의 아쉬운 성적표가 더해지며 시즌 전체 순위와 점수는 다음과 같이 기록되었습니다.
 

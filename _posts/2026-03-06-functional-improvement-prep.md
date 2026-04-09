@@ -4,7 +4,7 @@ title: "점심시간 한 시간의 흐름 — 2026 기능개선 사업 준비기
 date: 2026-03-06 01:06:00 +0900
 categories: [일상, 업무일지]
 tags: [정보화사업, 기능개선, RFP, 기능점수, FP, 예산, 투입인력, SI]
-thumbnail: /assets/img/posts/2026-03-06-functional-improvement-prep.jpg
+thumbnail: /assets/img/posts/2026-03-06-functional-improvement-prep.webp
 description: "2026년 기능개선 사업을 준비하며, 점심시간 한 시간 동안 몰입했던 순간을 기록했다."
 status: draft
 ---
@@ -84,7 +84,7 @@ SI 성격의 기능개선은 특히 “일정”보다 “과업”이 먼저였
   따뜻하고 잔잔한 집중의 분위기.
 
 권장 파일명:
-  assets/img/posts/2026-03-06-functional-improvement-prep.jpg
+  assets/img/posts/2026-03-06-functional-improvement-prep.webp
 
 alt text:
   "점심시간 조용한 사무실, 노트북과 서류가 놓인 책상 — 기능개선 사업 준비 작업"

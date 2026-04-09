@@ -5,7 +5,7 @@ categories:
   - Daily
 tags:
   - 블로그
-image: /assets/img/posts/20260213002248.png
+image: /assets/img/posts/20260213002248.webp
 ---
 오랫동안 정들었던 티스토리(Tistory)를 뒤로하고, 개발자들의 성지라 불리는 깃허브 블로그(GitHub Pages)로 하나하나 발자국을 찍어보고 있다.
 사실 단순한 '이사'라고 하기엔 그 과정이 마치 정글을 헤쳐 나가는 탐험과도 같지만, 새로운 세상을 개척하는 기분이 든다.
