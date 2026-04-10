@@ -1,0 +1,351 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>통합 RCMS AI 공통 인프라 GPU 서버 구매 사업 설명회</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Pretendard:wght@400;600;800&display=swap');
+        
+        body { 
+            font-family: 'Pretendard', sans-serif; 
+            background: #020617;
+            color: #f8fafc;
+            overflow: hidden;
+        }
+
+        /* 화려한 배경 애니메이션 */
+        .bg-gradient-animate {
+            background: radial-gradient(circle at 20% 30%, #1e3a8a 0%, transparent 40%),
+                        radial-gradient(circle at 80% 70%, #1e40af 0%, transparent 40%),
+                        radial-gradient(circle at 50% 50%, #0f172a 0%, #020617 100%);
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            z-index: -1;
+        }
+
+        .slide { 
+            display: none; 
+            min-height: 100vh; 
+            padding: 4rem;
+            animation: slideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+        .slide.active { display: flex; flex-direction: column; }
+
+        @keyframes slideUp { 
+            from { opacity: 0; transform: translateY(30px) scale(0.98); } 
+            to { opacity: 1; transform: translateY(0) scale(1); } 
+        }
+
+        /* 유리 질감 카드 */
+        .glass-card {
+            background: rgba(255, 255, 255, 0.03);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 1.5rem;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+        }
+
+        .gradient-text { 
+            background: linear-gradient(135deg, #60a5fa, #3b82f6, #2563eb); 
+            -webkit-background-clip: text; 
+            -webkit-text-fill-color: transparent; 
+        }
+
+        .ke-accent { background: #2563eb; }
+        
+        .step-number {
+            background: linear-gradient(135deg, #1d4ed8, #2563eb);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 800;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="bg-gradient-animate"></div>
+
+    <!-- 슬라이드 컨테이너 -->
+    <div id="presentation">
+
+        <!-- Slide 1: Main Title -->
+        <section class="slide active justify-center items-center text-center">
+            <div class="glass-card p-16 relative overflow-hidden max-w-5xl w-full">
+                <div class="absolute top-0 left-0 w-full h-1 ke-accent"></div>
+                <p class="text-2xl font-bold text-blue-400 mb-4 tracking-widest uppercase">Integrated RCMS AI Infrastructure</p>
+                <h1 class="text-7xl font-extrabold text-white leading-tight mb-8">
+                    GPU 서버 구매 사업<br>
+                    <span class="gradient-text">제안요청 설명회</span>
+                </h1>
+                <div class="flex justify-center gap-4 mb-12">
+                    <span class="px-4 py-1 rounded-full bg-blue-500/20 border border-blue-500/30 text-blue-300 text-sm">NVIDIA H200 NVL</span>
+                    <span class="px-4 py-1 rounded-full bg-blue-500/20 border border-blue-500/30 text-blue-300 text-sm">AI Infrastructure</span>
+                </div>
+                <div class="text-xl text-gray-400 font-medium">
+                    <p>2026. 04.</p>
+                    <p class="mt-2 text-white text-2xl font-bold">한국산업기술기획평가원</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Slide 2: Project Overview -->
+        <section class="slide">
+            <div class="flex items-center gap-4 mb-10">
+                <div class="w-12 h-12 rounded-xl ke-accent flex items-center justify-center font-bold text-2xl text-white shadow-lg shadow-blue-500/20">01</div>
+                <h2 class="text-4xl font-extrabold text-white tracking-tight">사업 개요</h2>
+            </div>
+            
+            <div class="grid grid-cols-12 gap-8 flex-grow">
+                <div class="col-span-7 glass-card p-10 flex flex-col justify-between">
+                    <div>
+                        <h3 class="text-2xl font-bold text-blue-400 mb-8 flex items-center gap-2">
+                            <span class="w-2 h-8 ke-accent rounded-full"></span>
+                            사업 기본 정보
+                        </h3>
+                        <div class="space-y-6">
+                            <div class="flex items-center justify-between p-4 bg-white/5 rounded-xl">
+                                <span class="text-gray-400 font-medium">사업명</span>
+                                <span class="text-xl font-bold text-white text-right">통합 RCMS AI 공통 인프라 기반 GPU 서버 구매사업</span>
+                            </div>
+                            <div class="flex items-center justify-between p-4 bg-white/5 rounded-xl">
+                                <span class="text-gray-400 font-medium">사업예산</span>
+                                <span class="text-2xl font-bold text-blue-400">590,120,000원 <span class="text-sm text-gray-400">(VAT 포함)</span></span>
+                            </div>
+                            <div class="flex items-center justify-between p-4 bg-white/5 rounded-xl">
+                                <span class="text-gray-400 font-medium">사업기간</span>
+                                <span class="text-xl font-bold text-white">계약일로부터 180일 이내</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-span-5 space-y-6">
+                    <div class="glass-card p-8 border-l-4 border-blue-500 h-1/2 flex flex-col justify-center">
+                        <h4 class="text-xl font-bold text-white mb-4">추진 배경</h4>
+                        <p class="text-gray-400 leading-relaxed text-lg">연구행정 전주기 지능형 서비스 제공을 위한 고품질·고신뢰 AI 챗봇 인프라 환경 구축</p>
+                    </div>
+                    <div class="glass-card p-8 border-l-4 border-green-500 h-1/2 flex flex-col justify-center">
+                        <h4 class="text-xl font-bold text-white mb-4">기대 효과</h4>
+                        <p class="text-gray-400 leading-relaxed text-lg">최신 아키텍처 기반 메모리 대역폭 확장으로 피크타임 동시 접속 부하 분산 및 성능 안정화</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Slide 3: Technical Specs -->
+        <section class="slide">
+            <div class="flex items-center gap-4 mb-10">
+                <div class="w-12 h-12 rounded-xl ke-accent flex items-center justify-center font-bold text-2xl text-white shadow-lg shadow-blue-500/20">02</div>
+                <h2 class="text-4xl font-extrabold text-white tracking-tight">도입 장비 상세 규격</h2>
+            </div>
+
+            <div class="glass-card overflow-hidden flex-grow shadow-2xl">
+                <table class="w-full text-left border-collapse">
+                    <thead class="bg-white/10">
+                        <tr>
+                            <th class="p-6 text-blue-400 font-bold text-xl uppercase tracking-wider border-b border-white/10">항목</th>
+                            <th class="p-6 text-blue-400 font-bold text-xl uppercase tracking-wider border-b border-white/10">최소 요구 사양</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-white/5">
+                        <tr class="hover:bg-white/5 transition-colors">
+                            <td class="p-6 font-bold text-gray-300">GPU Unit</td>
+                            <td class="p-6"><span class="text-2xl font-extrabold text-blue-400">NVIDIA H200 NVL PCIe × 4ea 이상</span></td>
+                        </tr>
+                        <tr class="hover:bg-white/5 transition-colors">
+                            <td class="p-6 font-bold text-gray-300">Processor</td>
+                            <td class="p-6 text-xl text-white">32Core × 2ea 이상 (2CPU), L3 Cache 144MB 이상</td>
+                        </tr>
+                        <tr class="hover:bg-white/5 transition-colors">
+                            <td class="p-6 font-bold text-gray-300">Memory</td>
+                            <td class="p-6 text-xl text-white">DDR5-6400, 1024GB 이상</td>
+                        </tr>
+                        <tr class="hover:bg-white/5 transition-colors">
+                            <td class="p-6 font-bold text-gray-300">Storage</td>
+                            <td class="p-6 text-xl text-white">NVMe SSD 7.68TB × 8ea 이상 / 480GB × 2ea 이상</td>
+                        </tr>
+                        <tr class="hover:bg-white/5 transition-colors">
+                            <td class="p-6 font-bold text-gray-300">Networking</td>
+                            <td class="p-6 text-xl text-white">1G 4Port + 10G SFP+ 2Port × 2ea (OCP 구성)</td>
+                        </tr>
+                        <tr class="hover:bg-white/5 transition-colors">
+                            <td class="p-6 font-bold text-gray-300">SLA</td>
+                            <td class="p-6 text-xl text-blue-300">3년 24/7 연중무휴 (장애 통보 후 8시간 이내 복구)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="mt-6 flex justify-end">
+                <p class="text-yellow-500/80 text-sm font-medium">※ 조립품, ODM, 베어본 기반 제품 제외 (제조사 정품 한정)</p>
+            </div>
+        </section>
+
+        <!-- Slide 4: Strategic Deployment -->
+        <section class="slide">
+            <div class="flex items-center gap-4 mb-10">
+                <div class="w-12 h-12 rounded-xl ke-accent flex items-center justify-center font-bold text-2xl text-white shadow-lg shadow-blue-500/20">03</div>
+                <h2 class="text-4xl font-extrabold text-white tracking-tight">추진 전략 및 자원 재배치</h2>
+            </div>
+
+            <div class="grid grid-cols-3 gap-8 flex-grow">
+                <div class="glass-card p-10 relative group hover:ke-accent transition-all duration-500 overflow-hidden">
+                    <div class="absolute -right-4 -top-4 text-9xl font-black text-white/5 group-hover:text-white/10">1</div>
+                    <h3 class="text-2xl font-bold text-white mb-6">운영존 (Production)</h3>
+                    <p class="text-gray-400 group-hover:text-white/80 leading-relaxed">
+                        신규 도입 H200 서버를 운영/검증 환경에 배치하여 RCMS AI 챗봇 실전 서비스 품질 확보 및 고성능 연산 제공
+                    </p>
+                    <div class="mt-8 pt-6 border-t border-white/10 flex items-center text-blue-400 font-bold group-hover:text-white">
+                        고신뢰 AI Agent 구현
+                    </div>
+                </div>
+
+                <div class="glass-card p-10 relative group hover:bg-indigo-600 transition-all duration-500 overflow-hidden">
+                    <div class="absolute -right-4 -top-4 text-9xl font-black text-white/5 group-hover:text-white/10">2</div>
+                    <h3 class="text-2xl font-bold text-white mb-6">개발존 (Development)</h3>
+                    <p class="text-gray-400 group-hover:text-white/80 leading-relaxed">
+                        기존 GPU 서버를 개발존으로 재배치 및 인프라 가상화하여 운영 서비스 영향 없이 독립적인 개발·테스트 환경 구축
+                    </p>
+                    <div class="mt-8 pt-6 border-t border-white/10 flex items-center text-indigo-300 font-bold group-hover:text-white">
+                        무중단 운영 환경 조성
+                    </div>
+                </div>
+
+                <div class="glass-card p-10 relative group hover:bg-emerald-600 transition-all duration-500 overflow-hidden">
+                    <div class="absolute -right-4 -top-4 text-9xl font-black text-white/5 group-hover:text-white/10">3</div>
+                    <h3 class="text-2xl font-black text-white/5 group-hover:text-white/10">가상화·효율화</h3>
+                    <p class="text-gray-400 group-hover:text-white/80 leading-relaxed">
+                        도입 장비 일체에 대한 기술지원 매트릭스 관리 및 효율적인 자원 할당으로 향후 AI 인프라 확장성 고려
+                    </p>
+                    <div class="mt-8 pt-6 border-t border-white/10 flex items-center text-emerald-300 font-bold group-hover:text-white">
+                        미래 지향적 인프라
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Slide 5: Critical Requirements -->
+        <section class="slide">
+            <div class="flex items-center gap-4 mb-10">
+                <div class="w-12 h-12 rounded-xl ke-accent flex items-center justify-center font-bold text-2xl text-white shadow-lg shadow-blue-500/20">04</div>
+                <h2 class="text-4xl font-extrabold text-white tracking-tight">제안 핵심 준수사항</h2>
+            </div>
+
+            <div class="grid grid-cols-2 gap-8 flex-grow">
+                <div class="glass-card p-10">
+                    <h3 class="text-2xl font-bold text-red-400 mb-8 flex items-center gap-2">
+                        <span class="w-8 h-8 rounded-lg bg-red-400/20 flex items-center justify-center text-sm font-black">!</span>
+                        정보 보안 및 인력 관리
+                    </h3>
+                    <ul class="space-y-4 text-lg text-gray-300">
+                        <li class="flex gap-4"><span class="text-red-400 font-bold">●</span> 누출금지 정보(IP, 구성도, 계정 등) 유출 시 부정당업자 제재</li>
+                        <li class="flex gap-4"><span class="text-red-400 font-bold">●</span> 참여 인력에 대한 보안 서약서 제출 및 월 1회 보안 교육</li>
+                        <li class="flex gap-4"><span class="text-red-400 font-bold">●</span> 작업용 PC는 전용 클린PC 사용 및 개인 장비 반입 금지</li>
+                        <li class="flex gap-4"><span class="text-red-400 font-bold">●</span> 계약 종료 후 모든 데이터 폐기 및 보안확약서 제출</li>
+                    </ul>
+                </div>
+
+                <div class="glass-card p-10">
+                    <h3 class="text-2xl font-bold text-blue-400 mb-8 flex items-center gap-2">
+                        <span class="w-8 h-8 rounded-lg bg-blue-400/20 flex items-center justify-center text-sm font-black">✔</span>
+                        평가 및 선정 기준
+                    </h3>
+                    <div class="bg-blue-900/20 rounded-2xl p-6 border border-blue-500/20 mb-6">
+                        <p class="text-gray-400 mb-2">종합 평가 방식</p>
+                        <p class="text-3xl font-black text-white">기술능력(90) + 가격(10)</p>
+                    </div>
+                    <ul class="space-y-4 text-gray-400">
+                        <li>- 기술평가 점수 배점한도의 85% 미만 협상 제외</li>
+                        <li>- 공동수급체 구성 시 중소기업 참여 비율 우대</li>
+                        <li>- 정량 평가: 수행실적, 경영상태, 상생협력 등</li>
+                        <li>- 정성 평가: 전략, 기술 및 기능, 사업관리 등</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Slide 6: Closing & QA -->
+        <section class="slide justify-center items-center text-center">
+            <div class="glass-card p-20 max-w-4xl w-full relative">
+                <h2 class="text-6xl font-black gradient-text mb-6">THANK YOU</h2>
+                <p class="text-2xl text-gray-400 mb-16">질의응답 및 토론</p>
+                
+                <div class="w-24 h-1 ke-accent mx-auto mb-16"></div>
+                
+                <div class="grid grid-cols-2 gap-8 text-left">
+                    <div class="p-6 bg-white/5 rounded-2xl border border-white/10">
+                        <h4 class="text-blue-400 font-bold mb-2">제안 관련 문의</h4>
+                        <p class="text-white text-lg">범부처RCMS실</p>
+                        <p class="text-gray-400 text-sm">한국산업기술기획평가원</p>
+                    </div>
+                    <div class="p-6 bg-white/5 rounded-2xl border border-white/10">
+                        <h4 class="text-blue-400 font-bold mb-2">계약 관련 문의</h4>
+                        <p class="text-white text-lg">안전환경상생협력실</p>
+                        <p class="text-gray-400 text-sm">한국산업기술기획평가원</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <!-- 하단 컨트롤 바 -->
+    <nav class="fixed bottom-0 left-0 right-0 p-8 flex justify-between items-center z-50">
+        <div class="flex items-center gap-4">
+            <div class="h-10 w-10 ke-accent rounded-full flex items-center justify-center font-black italic shadow-lg shadow-blue-500/40 text-white">K</div>
+            <span class="font-bold text-white/60 tracking-tight">KEIT GPU Infrastructure 2026</span>
+        </div>
+        
+        <div class="flex items-center gap-6 glass-card px-8 py-3">
+            <button id="prevBtn" class="text-gray-400 hover:text-white font-bold transition-colors">PREV</button>
+            <div class="w-px h-4 bg-white/20"></div>
+            <div class="text-white font-black text-xl w-12 text-center"><span id="currentPage">1</span></div>
+            <div class="w-px h-4 bg-white/20"></div>
+            <button id="nextBtn" class="text-blue-400 hover:text-blue-300 font-bold transition-colors">NEXT</button>
+        </div>
+
+        <div class="text-gray-500 font-medium">
+            Presentation Mode
+        </div>
+    </nav>
+
+    <script>
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.slide');
+        const totalSlides = slides.length;
+        const currentPageEl = document.getElementById('currentPage');
+
+        function showSlide(index) {
+            slides.forEach(s => s.classList.remove('active'));
+            slides[index].classList.add('active');
+            currentPageEl.innerText = index + 1;
+        }
+
+        document.getElementById('nextBtn').addEventListener('click', () => {
+            if (currentSlide < totalSlides - 1) {
+                currentSlide++;
+                showSlide(currentSlide);
+            }
+        });
+
+        document.getElementById('prevBtn').addEventListener('click', () => {
+            if (currentSlide > 0) {
+                currentSlide--;
+                showSlide(currentSlide);
+            }
+        });
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight' || e.key === ' ') {
+                if (currentSlide < totalSlides - 1) { currentSlide++; showSlide(currentSlide); }
+            } else if (e.key === 'ArrowLeft') {
+                if (currentSlide > 0) { currentSlide--; showSlide(currentSlide); }
+            }
+        });
+    </script>
+</body>
+</html>
