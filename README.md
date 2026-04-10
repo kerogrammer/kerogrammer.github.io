@@ -15,6 +15,11 @@
 - 생산성 향상, 자동화, 협업 방식에 대한 실험
 - 일상, 취미, 그리고 개인적인 관심사에 대한 기록
 
+## AI Operations
+
+- **AI 직원 운영 규정 (v1.3):** [문서로 보기](./docs/OPERATIONAL_RULES.md) | [블로그 포스트로 보기](https://kerogrammer.github.io/posts/ai-staff-operational-rules-v1-3/)
+  - AI 직원(김맥북, 서코인) 운영 원칙과 의사결정 체계(숫자 승인제)를 정의하고 있습니다.
+
 ## About This Blog
 
 이 공간에는 다음과 같은 내용이 담깁니다.
