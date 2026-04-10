@@ -3,6 +3,10 @@ title: "AI 직원 운영 규정 (v1.3) 마이그레이션"
 date: 2026-04-11 01:10:00 +0900
 categories: [AI, Operation]
 tags: [antigravity, notion, github, r&r]
+image:
+  path: /assets/img/posts/2026-04-11-ai-staff-operational-rules-v1-3.svg
+  alt: "AI 직원 운영 규정 (v1.3) 마이그레이션"
+description: "Notion에서 관리하던 AI 직원 운영 규정(v1.3)을 GitHub로 마이그레이션한 기록과 주요 내용을 요약합니다."
 ---
 
 Notion에서 관리하던 **AI 직원 운영 규정(v1.3)**을 GitHub로 마이그레이션했습니다. 앞으로 AI 직원(김맥북, 서코인) 운영에 관한 모든 기준은 이 문서를 최우선으로 합니다.

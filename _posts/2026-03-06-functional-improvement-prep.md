@@ -4,9 +4,10 @@ title: "점심시간 한 시간의 흐름 — 2026 기능개선 사업 준비기
 date: 2026-03-06 01:06:00 +0900
 categories: [일상, 업무일지]
 tags: [정보화사업, 기능개선, RFP, 기능점수, FP, 예산, 투입인력, SI]
-thumbnail: /assets/img/posts/2026-03-06-functional-improvement-prep.webp
+image:
+  path: /assets/img/posts/2026-03-06-functional-improvement-prep.svg
+  alt: "점심시간 한 시간의 흐름 — 2026 기능개선 사업 준비기"
 description: "2026년 기능개선 사업을 준비하며, 점심시간 한 시간 동안 몰입했던 순간을 기록했다."
-status: draft
 ---
 
 ## 정보화사업 준비 중이었다
