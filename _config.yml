@@ -41,7 +41,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: -AQKlahWh9anzOsmm8Hiiv29QyAOQK2zNzWvaVW4zHY
+  google: '-AQKlahWh9anzOsmm8Hiiv29QyAOQK2zNzWvaVW4zHY'
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -225,5 +225,9 @@ jekyll-archives:
     category: /categories/:name/
 
 plugins:
-  - jekyll-sitemap
+  - jekyll-archives
   - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
