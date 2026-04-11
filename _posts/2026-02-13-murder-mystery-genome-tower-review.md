@@ -11,7 +11,7 @@ tags:
   - GenomeTower
   - Mystery
 image:
-  path: /assets/img/posts/게놈의탑.webp
+  path: /assets/img/posts/2026-02-13-murder-mystery-genome-tower-review/genome-tower.webp
   alt: 게놈의 탑 이미지
 pin: false
 math: false
