@@ -2,7 +2,7 @@
 title: "Hello World! 5년 만의 새로운 시작: 티스토리에서 깃허브 블로그로"
 date: 2026-02-11 21:00:00 +0900
 image:
-  path: /assets/img/posts/2026-02-11-new-start.webp
+  path: /assets/img/posts/2026-02-11-hello-world/2026-02-11-new-start.webp
   alt: "New Start with Laptop"
 categories: [General, Tech]
 tags: [Jekyll, Chirpy, Blog, GithubPages]

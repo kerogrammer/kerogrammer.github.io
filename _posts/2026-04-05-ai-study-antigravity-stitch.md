@@ -6,7 +6,7 @@ categories: [Tech, AI]
 tags: [AI, Antigravity, Google Stitch, UI/UX, 회고]
 description: "구글 안티그래비티를 공부하다가 UI/UX 시안을 자연어로 생성해주는 구글 스티치의 놀라운 기능을 체험해 본 후기입니다."
 image:
-  path: /assets/img/posts/2026-04-05-ai-study-antigravity-stitch-thumb.svg
+  path: /assets/img/posts/2026-04-05-ai-study-antigravity-stitch/2026-04-05-ai-study-antigravity-stitch-thumb.svg
   alt: "구글 안티그래비티와 Google Stitch를 주제로 한 AI 학습 포스팅 썸네일"
 ---
 

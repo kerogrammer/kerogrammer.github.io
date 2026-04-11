@@ -5,7 +5,7 @@ categories: [Gaming, Strategy]
 tags: [DuneImperium, BoardGame, Strategy, Rabban, Skirmish]
 description: "듄 임페리움 디지털 시즌 26 소규모 전투 게임 7 리뷰. '짐승' 라반을 선택한 이유와 레토, 헬레나 AI의 강력한 견제 속에서 배운 전략적 교훈을 공유합니다."
 image:
-  path: /assets/img/posts/2026-02-16-dune-skirmish-info.webp
+  path: /assets/img/posts/2026-02-16-dune-imperium-season-26-game-7/2026-02-16-dune-skirmish-info.webp
   alt: "Dune Imperium Skirmish Info"
 ---
 
@@ -23,7 +23,7 @@ image:
 - **언더독(Underdog):** 상대보다 병력이 적을 때 승리 시 **전투력 +3** 추가 점수.
 - **뒤틀린 실험:** 에이전트 파견을 위해 카드 두 장을 접합할 때마다 **점수 +1**.
 
-![게임 규칙 정보](/assets/img/posts/2026-02-16-dune-skirmish-info.webp)
+![게임 규칙 정보](/assets/img/posts/2026-02-16-dune-imperium-season-26-game-7/2026-02-16-dune-skirmish-info.webp)
 <p style="text-align: center; font-size: 0.9em; color: #666;">▲ 카드 획득이 제한된 상황에서의 치열한 자원 관리 규칙</p>
 
 ---
@@ -56,7 +56,7 @@ image:
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
   <div style="max-width: 80%; border: 5px solid #c0392b; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
-    <img src="/assets/img/posts/2026-02-16-dune-skirmish-result.webp" alt="최종 결과 4등" style="width: 100%;">
+    <img src="/assets/img/posts/2026-02-16-dune-imperium-season-26-game-7/2026-02-16-dune-skirmish-result.webp" alt="최종 결과 4등" style="width: 100%;">
   </div>
 </div>
 

@@ -5,7 +5,7 @@ date: 2026-03-28 13:10:00 +0900
 categories: [Tech, AI]
 tags: [ChatGPT, GitHub, Jekyll, Chirpy, GitHub-Pages, 블로그, 자동화]
 image:
-  path: /assets/img/posts/2026-03-28-chatgpt-github-blog-workflow.svg
+  path: /assets/img/posts/2026-03-28-chatgpt-github-blog-workflow/2026-03-28-chatgpt-github-blog-workflow.svg
   alt: ChatGPT와 GitHub를 연동해 블로그 포스팅을 운영하는 작업 환경을 표현한 전용 썸네일
 description: "ChatGPT와 GitHub를 연결했을 때 깃허브 블로그에서 실제로 가능한 작업 범위와 운영 방식, 그리고 주의할 점을 정리했다."
 ---

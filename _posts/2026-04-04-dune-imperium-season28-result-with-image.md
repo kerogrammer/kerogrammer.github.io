@@ -5,11 +5,11 @@ description: "소규모전투 시즌 28을 마치고 플레이 방식과 다음 
 categories: [Gaming, Strategy]
 tags: [DuneImperium, BoardGame, Skirmish]
 image:
-  path: /assets/img/posts/2026-04-04-dune-imperium-season28-result-final.svg
+  path: /assets/img/posts/2026-04-04-dune-imperium-season28-result-with-image/2026-04-04-dune-imperium-season28-result-final.svg
   alt: "듄 임페리움 소규모전투 시즌 28 결과 이미지"
 ---
 
-![듄 임페리움 소규모전투 시즌 28 결과](/assets/img/posts/2026-04-04-dune-imperium-season28-result-final.svg)
+![듄 임페리움 소규모전투 시즌 28 결과](/assets/img/posts/2026-04-04-dune-imperium-season28-result-with-image/2026-04-04-dune-imperium-season28-result.svg)
 
 듄: 임페리움 소규모전투 시즌 28이 끝났습니다. 이번에는 478등으로 마무리했습니다.
 
