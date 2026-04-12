@@ -59,10 +59,20 @@ jobs:
             \-\-disable-external \
             \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
 
+      - name: Package site artifact
+        run: |
+          tar \
+            --dereference --hard-dereference \
+            --directory "_site${{ steps.pages.outputs.base_path }}" \
+            -cvf "${{ runner.temp }}/artifact.tar" \
+            .
+
       - name: Upload site artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-artifact@v7
         with:
-          path: "_site${{ steps.pages.outputs.base_path }}"
+          name: github-pages
+          path: ${{ runner.temp }}/artifact.tar
+          if-no-files-found: error
 
   deploy:
     environment:
