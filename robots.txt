@@ -1,5 +1,10 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
 User-agent: *
 Allow: /
 
 Sitemap: https://kerogrammer.github.io/sitemap.xml
-Sitemap: https://kerogrammer.github.io/feed.xml

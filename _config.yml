@@ -214,6 +214,10 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
+  - convert_script.py
+  - migrate.py
+  - himalaya_config.toml
+  - .nojekyll
 
 jekyll-archives:
   enabled: [categories, tags]
