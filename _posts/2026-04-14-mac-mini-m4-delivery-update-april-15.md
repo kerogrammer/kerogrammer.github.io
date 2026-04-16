@@ -5,6 +5,9 @@ date: 2026-04-14 16:25:00 +0900
 categories: [Tech, Apple]
 tags: [Mac-mini, Apple, Delivery, Update]
 description: "2026년 3월 24일 주문한 맥 미니 M4 기본형과 관련해, 2026년 4월 14일 애플로부터 4월 15일 도착 예정 안내 메일을 받은 내용을 정리한 배송 업데이트 기록입니다."
+image:
+  path: /assets/img/posts/2026-04-14-mac-mini-m4-delivery-update-april-15/2026-04-14-mac-mini-m4-delivery-update-april-15-thumb.svg
+  alt: "맥 미니 배송 일정이 4월 15일로 확정된 배송 업데이트 썸네일"
 ---
 
 이전에 올린 맥 미니 M4 배송 관련 글에 이어, 오늘 기준으로 반가운 변동이 있어 간단히 기록해 둡니다.
