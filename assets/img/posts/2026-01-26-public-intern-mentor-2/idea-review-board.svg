@@ -1,0 +1,45 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">1차 회의에서 나온 아이디어 보드</title>
+  <desc id="desc">인턴 착수회의에서 나온 네 가지 아이디어를 카드형 보드로 정리한 SVG 이미지.</desc>
+  <defs>
+    <linearGradient id="bg" x1="70" y1="70" x2="1130" y2="650" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8F1"/>
+      <stop offset="1" stop-color="#FCE7F3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="32" fill="url(#bg)"/>
+  <text x="96" y="118" fill="#111827" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="40" font-weight="800">착수회의에서 정리된 1차 아이디어</text>
+  <text x="96" y="164" fill="#4B5563" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="23" font-weight="500">인턴 5명이 회사 생활을 관찰하며 꺼낸 문제의식과 개선 방향</text>
+
+  <g>
+    <rect x="92" y="224" width="484" height="180" rx="26" fill="#FFFFFF"/>
+    <rect x="92" y="224" width="14" height="180" rx="7" fill="#F97316"/>
+    <text x="132" y="286" fill="#EA580C" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="24" font-weight="700">IDEA 1</text>
+    <text x="132" y="338" fill="#111827" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="32" font-weight="800">회의장소 부족 해결</text>
+    <text x="132" y="382" fill="#4B5563" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="21" font-weight="500">공간 운영의 병목과 체감 불편을 줄이는 관리 아이디어</text>
+  </g>
+
+  <g>
+    <rect x="624" y="224" width="484" height="180" rx="26" fill="#FFFFFF"/>
+    <rect x="624" y="224" width="14" height="180" rx="7" fill="#2563EB"/>
+    <text x="664" y="286" fill="#1D4ED8" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="24" font-weight="700">IDEA 2</text>
+    <text x="664" y="338" fill="#111827" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="32" font-weight="800">예약 시스템 연동</text>
+    <text x="664" y="382" fill="#4B5563" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="21" font-weight="500">회의실 예약 과정을 다른 시스템과 자연스럽게 연결하는 방향</text>
+  </g>
+
+  <g>
+    <rect x="92" y="444" width="484" height="180" rx="26" fill="#FFFFFF"/>
+    <rect x="92" y="444" width="14" height="180" rx="7" fill="#10B981"/>
+    <text x="132" y="506" fill="#059669" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="24" font-weight="700">IDEA 3</text>
+    <text x="132" y="558" fill="#111827" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="32" font-weight="800">폰부스 도입</text>
+    <text x="132" y="602" fill="#4B5563" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="21" font-weight="500">직원의 개인적 소통과 프라이버시를 위한 작은 업무 환경 개선</text>
+  </g>
+
+  <g>
+    <rect x="624" y="444" width="484" height="180" rx="26" fill="#FFFFFF"/>
+    <rect x="624" y="444" width="14" height="180" rx="7" fill="#8B5CF6"/>
+    <text x="664" y="506" fill="#7C3AED" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="24" font-weight="700">IDEA 4</text>
+    <text x="664" y="558" fill="#111827" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="32" font-weight="800">우수성과 과제 도출</text>
+    <text x="664" y="602" fill="#4B5563" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="21" font-weight="500">연구개발의 성과를 더 잘 발굴하고 연결하는 방법에 대한 제안</text>
+  </g>
+</svg>

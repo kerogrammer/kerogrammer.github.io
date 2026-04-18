@@ -1,0 +1,40 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">실무 소통과 정량 지표의 중요성</title>
+  <desc id="desc">실무 부서 소통, 리스크 확인, 데이터 근거 확보를 하나의 흐름으로 정리한 SVG.</desc>
+  <defs>
+    <linearGradient id="bg" x1="60" y1="60" x2="1140" y2="660" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#DBEAFE"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="32" fill="url(#bg)"/>
+  <text x="92" y="110" fill="#0F172A" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="40" font-weight="800">아이디어를 설득력 있는 과제로 바꾸는 마지막 한 걸음</text>
+  <text x="92" y="156" fill="#475569" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="23" font-weight="500">실무 부서와 먼저 대화하고, 예상 효과를 숫자로 보여주기</text>
+
+  <g>
+    <rect x="106" y="248" width="276" height="242" rx="28" fill="#FFFFFF"/>
+    <text x="148" y="316" fill="#0F766E" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="28" font-weight="800">1. 실무자와 소통</text>
+    <text x="148" y="376" fill="#334155" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="22" font-weight="500">담당 부서 반응을 미리 듣고</text>
+    <text x="148" y="412" fill="#334155" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="22" font-weight="500">현장에서 불편한 점을 확인한다.</text>
+  </g>
+
+  <g>
+    <rect x="462" y="248" width="276" height="242" rx="28" fill="#FFFFFF"/>
+    <text x="504" y="316" fill="#1D4ED8" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="28" font-weight="800">2. 리스크 파악</text>
+    <text x="504" y="376" fill="#334155" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="22" font-weight="500">업무가 늘어나는 지점과</text>
+    <text x="504" y="412" fill="#334155" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="22" font-weight="500">운영상 부담을 미리 짚어본다.</text>
+  </g>
+
+  <g>
+    <rect x="818" y="248" width="276" height="242" rx="28" fill="#FFFFFF"/>
+    <text x="860" y="316" fill="#EA580C" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="28" font-weight="800">3. 숫자로 제시</text>
+    <text x="860" y="376" fill="#334155" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="22" font-weight="500">공공데이터와 통계 자료로</text>
+    <text x="860" y="412" fill="#334155" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="22" font-weight="500">예상 향상폭을 설명한다.</text>
+  </g>
+
+  <path d="M382 370H442" stroke="#94A3B8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M738 370H798" stroke="#94A3B8" stroke-width="10" stroke-linecap="round"/>
+
+  <rect x="196" y="550" width="808" height="92" rx="20" fill="#0F172A"/>
+  <text x="600" y="608" text-anchor="middle" fill="#F8FAFC" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="30" font-weight="700">"'좋을 것 같다'보다 '00% 개선된다'가 훨씬 강한 언어다."</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">멘토 피드백 4대 기준</title>
+  <desc id="desc">참신성, 필요성, 소통성, 효과성으로 구성된 멘토 검토 기준을 2x2 매트릭스로 표현한 SVG.</desc>
+  <rect width="1200" height="720" rx="32" fill="#0F172A"/>
+  <text x="92" y="112" fill="#F8FAFC" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="40" font-weight="800">멘토 관점에서 본 4가지 핵심 지표</text>
+  <text x="92" y="158" fill="#CBD5E1" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="23" font-weight="500">아이디어가 '좋아 보이는 수준'을 넘어 실제 과제가 될 수 있는지 보기 위한 기준</text>
+
+  <g>
+    <rect x="92" y="224" width="480" height="176" rx="28" fill="#EFF6FF"/>
+    <text x="132" y="286" fill="#1D4ED8" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="30" font-weight="800">① 참신성</text>
+    <text x="132" y="344" fill="#111827" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="23" font-weight="500">이미 시도된 적이 있는지 확인하고</text>
+    <text x="132" y="382" fill="#111827" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="23" font-weight="500">정말 경쟁력 있는 주제인지 살펴본다.</text>
+  </g>
+
+  <g>
+    <rect x="624" y="224" width="480" height="176" rx="28" fill="#FFF7ED"/>
+    <text x="664" y="286" fill="#EA580C" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="30" font-weight="800">② 필요성</text>
+    <text x="664" y="344" fill="#111827" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="23" font-weight="500">회사 운영과 경영 측면에서</text>
+    <text x="664" y="382" fill="#111827" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="23" font-weight="500">실질적으로 도움이 되는 문제인지 본다.</text>
+  </g>
+
+  <g>
+    <rect x="92" y="444" width="480" height="176" rx="28" fill="#ECFDF5"/>
+    <text x="132" y="506" fill="#059669" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="30" font-weight="800">③ 소통성</text>
+    <text x="132" y="564" fill="#111827" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="23" font-weight="500">실무 담당 부서와 미리 대화하고</text>
+    <text x="132" y="602" fill="#111827" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="23" font-weight="500">리스크와 현실 제약을 파악했는지 점검한다.</text>
+  </g>
+
+  <g>
+    <rect x="624" y="444" width="480" height="176" rx="28" fill="#F5F3FF"/>
+    <text x="664" y="506" fill="#7C3AED" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="30" font-weight="800">④ 효과성</text>
+    <text x="664" y="564" fill="#111827" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="23" font-weight="500">투입 비용과 운영 부담 대비</text>
+    <text x="664" y="602" fill="#111827" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="23" font-weight="500">얼마나 큰 성과를 만들 수 있는지 따져본다.</text>
+  </g>
+</svg>
