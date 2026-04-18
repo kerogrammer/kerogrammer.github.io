@@ -1,0 +1,74 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">2025년 공공기관 체험형 인턴 전산직 멘토 - 1. 내가 고경력 멘토?</title>
+  <desc id="desc">딥블루와 민트 포인트가 들어간 블로그 썸네일. 멘토, 멘티, 프로젝트 흐름을 카드형 UI로 표현한다.</desc>
+  <defs>
+    <linearGradient id="bg" x1="112" y1="72" x2="1476" y2="832" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081225"/>
+      <stop offset="0.55" stop-color="#153B6A"/>
+      <stop offset="1" stop-color="#1AA7A1"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="260" y1="170" x2="1320" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FBFF" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#DFF8F3" stop-opacity="0.92"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="300" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F3A67"/>
+      <stop offset="1" stop-color="#19A59E"/>
+    </linearGradient>
+    <filter id="shadow" x="190" y="120" width="1220" height="660" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="24"/>
+      <feGaussianBlur stdDeviation="30"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.0156863 0 0 0 0 0.109804 0 0 0 0 0.223529 0 0 0 0.25 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_1"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_1" result="shape"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="900" rx="36" fill="url(#bg)"/>
+  <circle cx="1324" cy="160" r="220" fill="#7DD3FC" fill-opacity="0.09"/>
+  <circle cx="250" cy="760" r="260" fill="#C4B5FD" fill-opacity="0.08"/>
+  <path d="M128 760C328 612 566 602 764 690C940 768 1118 790 1472 646" stroke="#93C5FD" stroke-opacity="0.18" stroke-width="3"/>
+  <path d="M118 800C404 614 642 590 872 650C1062 700 1210 718 1450 608" stroke="#6EE7B7" stroke-opacity="0.14" stroke-width="2"/>
+
+  <g filter="url(#shadow)">
+    <rect x="240" y="150" width="1120" height="600" rx="32" fill="url(#panel)"/>
+  </g>
+
+  <rect x="300" y="218" width="320" height="56" rx="28" fill="url(#chip)"/>
+  <text x="460" y="254" text-anchor="middle" fill="#F8FAFC" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="28" font-weight="700">SERIES 01</text>
+
+  <text x="300" y="356" fill="#0F172A" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="54" font-weight="800">2025년 공공기관 체험형 인턴 전산직 멘토</text>
+  <text x="300" y="434" fill="#0F172A" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="70" font-weight="900">1. 내가 고경력 멘토?</text>
+  <text x="302" y="502" fill="#334155" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="30" font-weight="500">뉴비 같던 내가 어느새 선임 멘토 역할을 맡게 된 날의 기록</text>
+
+  <g>
+    <rect x="302" y="578" width="278" height="118" rx="28" fill="#0F172A"/>
+    <text x="338" y="620" fill="#7DD3FC" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="24" font-weight="700">MENTORING KEYWORD</text>
+    <text x="338" y="664" fill="#F8FAFC" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="34" font-weight="800">가짜 일 줄이기</text>
+  </g>
+
+  <g>
+    <rect x="676" y="248" width="560" height="382" rx="30" fill="#E2F4F1"/>
+    <rect x="716" y="290" width="218" height="128" rx="24" fill="#0F3A67"/>
+    <text x="825" y="336" text-anchor="middle" fill="#93C5FD" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="22" font-weight="700">ROLE</text>
+    <text x="825" y="387" text-anchor="middle" fill="#F8FAFC" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="34" font-weight="800">고경력 멘토</text>
+
+    <rect x="960" y="290" width="236" height="128" rx="24" fill="#F8FAFC"/>
+    <text x="1000" y="332" fill="#0F3A67" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="22" font-weight="700">VIEW</text>
+    <text x="1000" y="375" fill="#0F172A" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="28" font-weight="800">일반 국민의 시각</text>
+
+    <rect x="716" y="454" width="480" height="128" rx="24" fill="#F8FAFC"/>
+    <text x="756" y="498" fill="#19A59E" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="22" font-weight="700">PROJECT</text>
+    <text x="756" y="548" fill="#0F172A" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="32" font-weight="800">익숙한 업무를 낯설게 보기</text>
+  </g>
+
+  <g opacity="0.9">
+    <circle cx="1296" cy="688" r="52" fill="#0F3A67"/>
+    <circle cx="1296" cy="688" r="28" fill="#BAF7E8"/>
+    <path d="M1222 688H1160" stroke="#0F3A67" stroke-width="14" stroke-linecap="round"/>
+    <path d="M1176 652L1144 688L1176 724" stroke="#0F3A67" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

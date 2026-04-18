@@ -1,0 +1,39 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">일반 국민의 시각으로 업무를 다시 보는 장면</title>
+  <desc id="desc">돋보기 안에서 익숙한 업무 흐름이 새 관점으로 다시 보이는 모습의 SVG.</desc>
+  <defs>
+    <linearGradient id="bg" x1="70" y1="70" x2="1110" y2="650" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FBFF"/>
+      <stop offset="1" stop-color="#DFF8F3"/>
+    </linearGradient>
+    <linearGradient id="lens" x1="322" y1="184" x2="880" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DBEAFE"/>
+      <stop offset="1" stop-color="#93C5FD"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="720" rx="32" fill="url(#bg)"/>
+  <text x="110" y="132" fill="#0F172A" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="38" font-weight="800">이번 멘토링의 출발점은 '일반 국민의 시각'</text>
+  <text x="110" y="176" fill="#475569" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="23" font-weight="500">우리가 익숙해서 지나치던 절차를, 처음 보는 사람의 질문으로 다시 비춰보기</text>
+
+  <rect x="110" y="256" width="320" height="258" rx="28" fill="#0F172A"/>
+  <text x="152" y="312" fill="#7DD3FC" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="24" font-weight="700">BEFORE</text>
+  <text x="152" y="368" fill="#F8FAFC" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="34" font-weight="800">늘 해오던 방식</text>
+  <text x="152" y="424" fill="#CBD5E1" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="23" font-weight="500">관성적인 설명</text>
+  <text x="152" y="462" fill="#CBD5E1" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="23" font-weight="500">당연하다고 여긴 절차</text>
+
+  <g>
+    <circle cx="690" cy="390" r="174" fill="url(#lens)" stroke="#0F3A67" stroke-width="18"/>
+    <circle cx="690" cy="390" r="130" fill="#F8FAFC" fill-opacity="0.55"/>
+    <path d="M806 506L922 622" stroke="#0F3A67" stroke-width="30" stroke-linecap="round"/>
+    <text x="690" y="354" text-anchor="middle" fill="#0F3A67" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="26" font-weight="700">QUESTION</text>
+    <text x="690" y="408" text-anchor="middle" fill="#0F172A" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="38" font-weight="900">왜 그렇게 하지?</text>
+    <text x="690" y="456" text-anchor="middle" fill="#334155" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="24" font-weight="600">정말 필요한 절차인가?</text>
+  </g>
+
+  <rect x="864" y="256" width="236" height="258" rx="28" fill="#ECFEFF"/>
+  <text x="906" y="312" fill="#0F766E" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="24" font-weight="700">AFTER</text>
+  <text x="906" y="368" fill="#0F172A" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="34" font-weight="800">새로운 관찰</text>
+  <text x="906" y="424" fill="#334155" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="23" font-weight="500">숨은 비효율 발견</text>
+  <text x="906" y="462" fill="#334155" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="23" font-weight="500">개선 포인트 도출</text>
+</svg>
