@@ -1,0 +1,31 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">퇴사 소식을 전하는 대화 장면</title>
+  <desc id="desc">멘티가 대학원 합격 소식과 함께 퇴사를 알리는 장면을 말풍선 카드 형식으로 표현한 SVG.</desc>
+  <rect width="1200" height="720" rx="32" fill="#F8FAFC"/>
+  <text x="90" y="108" fill="#0F172A" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="40" font-weight="800">조용히 다가온 한마디가 분위기를 바꿨다</text>
+  <text x="90" y="154" fill="#475569" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="23" font-weight="500">평온한 회사 생활 중, 예상하지 못했던 퇴사 소식의 시작</text>
+
+  <g>
+    <rect x="94" y="232" width="454" height="124" rx="28" fill="#DBEAFE"/>
+    <text x="132" y="286" fill="#1D4ED8" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="24" font-weight="700">멘티 A</text>
+    <text x="132" y="332" fill="#111827" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="29" font-weight="800">"멘토님, 그동안 정말 감사했습니다."</text>
+  </g>
+
+  <g>
+    <rect x="654" y="264" width="454" height="124" rx="28" fill="#E2E8F0"/>
+    <text x="692" y="318" fill="#334155" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="24" font-weight="700">나</text>
+    <text x="692" y="364" fill="#111827" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="29" font-weight="800">"헐... 어디 가시나요?"</text>
+  </g>
+
+  <g>
+    <rect x="94" y="414" width="540" height="146" rx="28" fill="#FEE2E2"/>
+    <text x="132" y="470" fill="#DC2626" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="24" font-weight="700">멘티 A</text>
+    <text x="132" y="518" fill="#111827" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="28" font-weight="800">"대학원에 합격해서 다음 주까지만 있게 됐습니다."</text>
+  </g>
+
+  <g>
+    <rect x="726" y="452" width="382" height="108" rx="28" fill="#DCFCE7"/>
+    <text x="764" y="500" fill="#15803D" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="24" font-weight="700">나</text>
+    <text x="764" y="540" fill="#111827" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="26" font-weight="800">"축하드려요. 정말 좋은 소식이네요."</text>
+  </g>
+</svg>

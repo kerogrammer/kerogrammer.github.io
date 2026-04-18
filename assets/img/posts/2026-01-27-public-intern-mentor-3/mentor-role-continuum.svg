@@ -1,0 +1,41 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">멘토의 역할은 계속된다</title>
+  <desc id="desc">떠나는 사람을 축하하고 남은 멘티와의 멘토링을 이어가는 흐름을 나타낸 SVG.</desc>
+  <defs>
+    <linearGradient id="bg" x1="80" y1="80" x2="1120" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8F1"/>
+      <stop offset="1" stop-color="#E0F2FE"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" rx="32" fill="url(#bg)"/>
+  <text x="90" y="112" fill="#0F172A" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="40" font-weight="800">멘토링은 누군가 떠나도 거기서 끝나지 않는다</text>
+  <text x="90" y="158" fill="#475569" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="23" font-weight="500">축하와 아쉬움을 함께 품은 채, 남은 사람들과의 시간도 계속 이어가기</text>
+
+  <g>
+    <rect x="96" y="260" width="270" height="236" rx="30" fill="#FFFFFF"/>
+    <text x="136" y="324" fill="#DC2626" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="28" font-weight="800">떠나는 멘티</text>
+    <text x="136" y="386" fill="#334155" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="22" font-weight="500">합격 소식을 축하하고</text>
+    <text x="136" y="422" fill="#334155" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="22" font-weight="500">다음 길을 응원한다</text>
+  </g>
+
+  <g>
+    <rect x="466" y="218" width="270" height="320" rx="30" fill="#0F172A"/>
+    <text x="506" y="290" fill="#F8FAFC" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="30" font-weight="800">멘토의 자리</text>
+    <text x="506" y="362" fill="#7DD3FC" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="24" font-weight="700">정리</text>
+    <text x="506" y="400" fill="#E2E8F0" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="22" font-weight="500">인턴 경험을 말이 되게 만들기</text>
+    <text x="506" y="454" fill="#6EE7B7" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="24" font-weight="700">연결</text>
+    <text x="506" y="492" fill="#E2E8F0" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="22" font-weight="500">남은 멘토링의 방향을 끝까지 잡기</text>
+  </g>
+
+  <g>
+    <rect x="836" y="260" width="270" height="236" rx="30" fill="#FFFFFF"/>
+    <text x="876" y="324" fill="#1D4ED8" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="28" font-weight="800">남은 멘티들</text>
+    <text x="876" y="386" fill="#334155" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="22" font-weight="500">이번 기수의 남은 시간 동안</text>
+    <text x="876" y="422" fill="#334155" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="22" font-weight="500">얻어갈 성장을 함께 챙긴다</text>
+  </g>
+
+  <path d="M366 378H438" stroke="#94A3B8" stroke-width="10" stroke-linecap="round"/>
+  <path d="M736 378H808" stroke="#94A3B8" stroke-width="10" stroke-linecap="round"/>
+  <rect x="214" y="586" width="772" height="82" rx="20" fill="#FFFFFF" fill-opacity="0.85"/>
+  <text x="600" y="637" text-anchor="middle" fill="#0F172A" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="30" font-weight="700">"잠시 스쳐 가는 인연처럼 보여도, 그 시간은 분명 서로에게 남는다."</text>
+</svg>

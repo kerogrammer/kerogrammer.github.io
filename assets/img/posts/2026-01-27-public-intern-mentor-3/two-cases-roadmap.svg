@@ -1,0 +1,23 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">두 멘티의 다음 행보</title>
+  <desc id="desc">멘티 A와 멘티 B가 각자의 대학원 진학으로 새로운 길을 택한 상황을 비교 카드로 정리한 SVG.</desc>
+  <rect width="1200" height="720" rx="32" fill="#0F172A"/>
+  <text x="92" y="114" fill="#F8FAFC" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="40" font-weight="800">하나가 끝인 줄 알았는데, 또 하나의 소식이 이어졌다</text>
+  <text x="92" y="160" fill="#CBD5E1" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="23" font-weight="500">서로 다른 길이지만, 두 사람 모두 자신의 다음 단계를 이미 준비하고 있었다</text>
+
+  <g>
+    <rect x="92" y="236" width="474" height="346" rx="32" fill="#FFF7ED"/>
+    <text x="140" y="306" fill="#EA580C" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="28" font-weight="800">CASE 01. 멘티 A</text>
+    <text x="140" y="380" fill="#111827" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="34" font-weight="800">OO대학원 최종 합격</text>
+    <text x="140" y="446" fill="#334155" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="24" font-weight="500">전문분야 강화를 위한 학업 수행</text>
+    <text x="140" y="506" fill="#334155" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="24" font-weight="500">인턴 경험을 다음 단계의 디딤돌로 연결</text>
+  </g>
+
+  <g>
+    <rect x="634" y="236" width="474" height="346" rx="32" fill="#EFF6FF"/>
+    <text x="682" y="306" fill="#1D4ED8" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="28" font-weight="800">CASE 02. 멘티 B</text>
+    <text x="682" y="380" fill="#111827" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="34" font-weight="800">XX대학원 최종 합격</text>
+    <text x="682" y="446" fill="#334155" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="24" font-weight="500">폭넓은 연구실 환경을 바탕으로 진학</text>
+    <text x="682" y="506" fill="#334155" font-family="'Segoe UI', 'Noto Sans KR', sans-serif" font-size="24" font-weight="500">다른 부서에서 준비하던 계획도 좋은 결실로 이어짐</text>
+  </g>
+</svg>
