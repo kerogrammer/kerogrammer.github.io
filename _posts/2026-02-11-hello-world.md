@@ -5,7 +5,7 @@ image:
   path: /assets/img/posts/2026-02-11-hello-world/2026-02-11-new-start.webp
   alt: "New Start with Laptop"
 categories: [General, Tech]
-tags: [Jekyll, Chirpy, Blog, GithubPages]
+tags: [Jekyll, Chirpy, Blog, GitHub-Pages]
 ---
 
 ## 🚀 5년이라는 침묵을 깨고 다시 기록을 시작합니다.

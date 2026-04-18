@@ -127,7 +127,7 @@ script_includes:
         <div style="font-size: 0.85em; font-weight: 700; color: #64748b; margin-bottom: 0.5rem; text-transform: uppercase; letter-spacing: 0.5px;">연재 시리즈</div>
         <h4 style="margin-top: 0; margin-bottom: 1rem; font-weight: 800; font-size: 1.2rem; color: #0f172a;">📍 {{ page.series }}</h4>
         <ul style="margin-bottom: 0; padding-left: 1.2rem; list-style-type: none;">
-          {% assign series_posts = site.posts | where: "series", page.series | reverse %}
+          {% assign series_posts = page.series_posts | default: empty %}
           {% for sp in series_posts %}
             <li style="margin-bottom: 0.6rem; position: relative;">
               <span style="position: absolute; left: -1.2rem; color: #94a3b8;">•</span>
@@ -183,6 +183,10 @@ script_includes:
       border-color: #007bff;
     }
   </style>
+  <script
+    defer
+    src="https://unpkg.com/@lyket/widget@latest/dist/lyket.js?apiKey=pt_7b76e7f8124120fab9367a1690f5da"
+  ></script>
 </section>
 
   <div class="post-tail-wrapper text-muted">

@@ -2,7 +2,7 @@
 layout: post
 title: "은하계 거북이의 몰락과 교훈 - 여명의 제국 4판 POK 익스차 왕국 플레이 후기"
 date: 2026-02-18 22:00:00 +0900
-categories: [BoardGame, Strategy]
+categories: [Boardgame, Strategy]
 tags: [여명의제국, TI4, POK, 익스차왕국, 보드게임전략]
 image: /assets/img/posts/2026-02-18-twilight-imperium-4-pok-review/ti4-pok-round2-20260218.webp
 ---

@@ -6,7 +6,7 @@ categories:
   - Hobby
   - Murder Mystery
 tags:
-  - BoardGame
+  - Boardgame
   - Review
   - GenomeTower
   - Mystery

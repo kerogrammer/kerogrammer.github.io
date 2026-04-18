@@ -3,7 +3,7 @@ title: "듄: 임페리움 소규모전투 시즌 28 회고"
 date: 2026-04-04 13:10:00 +0900
 description: "소규모전투 시즌 28을 마치고 플레이 방식과 다음 시즌 목표를 짧게 정리합니다."
 categories: [Gaming, Strategy]
-tags: [DuneImperium, BoardGame, Skirmish]
+tags: [DuneImperium, Boardgame, Skirmish]
 image:
   path: /assets/img/posts/2026-04-04-dune-imperium-season28-result-with-image/2026-04-04-dune-imperium-season28-result-final.svg
   alt: "듄 임페리움 소규모전투 시즌 28 결과 이미지"
