@@ -6,6 +6,7 @@ image:
   alt: "New Start with Laptop"
 categories: [General, Tech]
 tags: [Jekyll, Chirpy, Blog, GitHub-Pages]
+description: "티스토리에서 GitHub Pages와 Jekyll Chirpy 테마로 이전하며, 기술 블로그를 코드로 관리하려는 이유와 앞으로 다룰 주제를 정리한 시작 글입니다."
 ---
 
 ## 🚀 5년이라는 침묵을 깨고 다시 기록을 시작합니다.

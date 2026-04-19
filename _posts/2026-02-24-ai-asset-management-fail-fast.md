@@ -6,6 +6,7 @@ tags: [AI, Notion, Excel, FailFast, Lean, 자산관리, 자동화, 회고]
 image:
   path: https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop
   alt: Data analytics and financial charts showing technology failure and insights.
+description: "엑셀 자산 데이터를 AI로 분석해 노션 대시보드를 자동화했다가 데이터 오염으로 폐기한 사례를 통해 Lean한 기술 의사결정과 데이터 설계의 중요성을 복기합니다."
 ---
 
 ## 🎬 프롤로그: "부기야, 내 자산 현황 좀 정리해줄래?"

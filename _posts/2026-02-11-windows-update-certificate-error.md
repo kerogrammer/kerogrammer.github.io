@@ -12,6 +12,7 @@ pin: false
 image:
   path: https://images.unsplash.com/photo-1629654297299-c8506221ca97?q=80&w=1000&auto=format&fit=crop
   alt: Windows 11 Security and Certificates
+description: "윈도우11 업데이트 후 내부망 사이트 접속이 막히며 '서버의 인증서 해지 확인' 오류가 발생한 원인과 인터넷 옵션에서 해결한 과정을 정리한 트러블슈팅 기록입니다."
 ---
 
 ## 💻 어제의 무심함이 오늘의 당황으로

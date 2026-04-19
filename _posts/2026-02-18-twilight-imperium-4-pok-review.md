@@ -5,6 +5,7 @@ date: 2026-02-18 22:00:00 +0900
 categories: [Boardgame, Strategy]
 tags: [여명의제국, TI4, POK, 익스차왕국, 보드게임전략]
 image: /assets/img/posts/2026-02-18-twilight-imperium-4-pok-review/ti4-pok-round2-20260218.webp
+description: "여명의 제국 4판 POK 확장 6인 플레이 후기입니다. 익스차 왕국 운영, 모행성 방어 실패, 외교와 기술 협상의 교훈을 복기했습니다."
 ---
 
 <style>
