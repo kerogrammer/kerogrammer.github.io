@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "맥 미니가 도착했고, 오늘부터는 \"맥구\"와 함께 간다"
+title: "맥 미니 M4 마이그레이션 후기: 맥북에서 맥 미니로 옮기고 OpenClaw 전용 머신 구성"
 date: 2026-04-16 22:50:00 +0900
 categories: [Tech, AI]
 tags: [Mac-mini, Apple, OpenClaw, Migration, HomeLab]
-description: "2026년 4월 15일 도착한 맥 미니 M4를 4월 16일 맥북에서 맥 미니로 마이그레이션하며, 왜 이 작은 기계를 OpenClaw 전용 머신으로 들이게 되었는지 정리한 기록입니다."
+description: "2026년 4월 15일 도착한 맥 미니 M4를 4월 16일 맥북에서 옮기며, OpenClaw 전용 머신으로 구성한 이유와 기본형 선택 배경을 정리한 마이그레이션 후기입니다."
 image:
   path: /assets/img/posts/2026-04-16-mac-mini-migration-and-macgu/2026-04-16-mac-mini-migration-and-macgu-thumb.svg
   alt: "맥 미니 마이그레이션과 맥구라는 애칭을 담은 블로그 썸네일"

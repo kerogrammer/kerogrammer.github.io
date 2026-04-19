@@ -1,9 +1,9 @@
 ---
-title: "듄 임페리움 시즌 26 게임 7 전략 분석: '짐승' 라반은 왜 패배했는가?"
+title: "듄 임페리움 디지털 시즌 26 게임 7 전략 분석: '짐승' 라반은 왜 패배했는가?"
 date: 2026-02-16 21:10:00 +0900
 categories: [Gaming, Strategy]
 tags: [DuneImperium, Boardgame, Strategy, Rabban, Skirmish]
-description: "듄 임페리움 디지털 시즌 26 소규모 전투 게임 7 리뷰. '짐승' 라반을 선택한 이유와 레토, 헬레나 AI의 강력한 견제 속에서 배운 전략적 교훈을 공유합니다."
+description: "듄 임페리움 디지털 시즌 26 소규모 전투 게임 7 리뷰입니다. '짐승' 라반 선택의 이유와 레토, 헬레나 AI 견제 속에서 배운 전략적 교훈을 정리했습니다."
 image:
   path: /assets/img/posts/2026-02-16-dune-imperium-season-26-game-7/2026-02-16-dune-skirmish-info.webp
   alt: "Dune Imperium Skirmish Info"

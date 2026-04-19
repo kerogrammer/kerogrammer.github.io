@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "OpenClaw를 써보려고 맥 미니 M4를 샀는데, 배송이 너무 느리다"
+title: "맥 미니 M4 배송 지연 기록: OpenClaw용 기본형 주문 후 대기 상황 정리"
 date: 2026-04-13 21:30:00 +0900
 categories: [Tech, AI]
 tags: [Mac-mini, Apple, OpenClaw, AI, Delivery]
-description: "OpenClaw를 본격적으로 써보려고 맥 미니 M4 기본형을 주문했지만, 2026년 3월 24일 주문 이후 2026년 4월 13일 현재까지도 배송 준비 중인 상황을 기록한 글입니다."
+description: "OpenClaw용으로 맥 미니 M4 기본형을 주문한 뒤, 2026년 3월 24일 주문부터 4월 13일 현재까지 배송 준비 상태가 이어진 과정을 정리한 기록입니다."
 image:
   path: /assets/img/posts/2026-04-13-mac-mini-m4-delivery-wait/2026-04-13-mac-mini-m4-delivery-wait-thumb.svg
   alt: "맥 미니 M4 주문 후 배송을 기다리는 분위기를 담은 썸네일"

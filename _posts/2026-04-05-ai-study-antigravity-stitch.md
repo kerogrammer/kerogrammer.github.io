@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "AI공부 - 구글 안티그래비티 알아보다가 구글 스티치도 같이 알아감"
+title: "구글 스티치 사용 후기: 안티그래비티 공부하다가 발견한 AI UI 생성 도구"
 date: 2026-04-05 14:35:00 +0900
 categories: [Tech, AI]
 tags: [AI, Antigravity, Google Stitch, UI/UX, 회고]
-description: "구글 안티그래비티를 공부하다가 UI/UX 시안을 자연어로 생성해주는 구글 스티치의 놀라운 기능을 체험해 본 후기입니다."
+description: "구글 안티그래비티를 공부하다가 알게 된 구글 스티치 사용 후기입니다. 자연어로 UI/UX 시안을 생성하는 AI 디자인 도구의 인상적인 첫 경험을 정리했습니다."
 image:
   path: /assets/img/posts/2026-04-05-ai-study-antigravity-stitch/2026-04-05-ai-study-antigravity-stitch-thumb.svg
   alt: "구글 안티그래비티와 Google Stitch를 주제로 한 AI 학습 포스팅 썸네일"

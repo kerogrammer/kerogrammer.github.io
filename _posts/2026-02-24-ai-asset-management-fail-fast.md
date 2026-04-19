@@ -1,12 +1,12 @@
 ---
-title: "개인 자산 관리를 AI 에이전트에게 맡겼다가 실패한(?) 사연: Lean한 기술 의사결정의 복기"
+title: "엑셀 데이터를 AI로 노션 자동화했다가 실패한 이유: 자산관리 대시보드 실험 복기"
 date: 2026-02-24 23:00:00 +0900
 categories: [Tech, AI]
 tags: [AI, Notion, Excel, FailFast, Lean, 자산관리, 자동화, 회고]
 image:
   path: https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop
   alt: Data analytics and financial charts showing technology failure and insights.
-description: "엑셀 자산 데이터를 AI로 분석해 노션 대시보드를 자동화했다가 데이터 오염으로 폐기한 사례를 통해 Lean한 기술 의사결정과 데이터 설계의 중요성을 복기합니다."
+description: "엑셀 자산 데이터를 AI로 분석해 노션 대시보드를 자동화했다가 데이터 오염으로 폐기한 사례를 통해, 자산관리 자동화의 한계와 데이터 설계의 중요성을 복기합니다."
 ---
 
 ## 🎬 프롤로그: "부기야, 내 자산 현황 좀 정리해줄래?"

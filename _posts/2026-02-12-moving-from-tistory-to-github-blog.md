@@ -1,12 +1,12 @@
 ---
-title: 티스토리에서 깃허브블로그로 이동하면서
+title: "티스토리에서 GitHub Pages 블로그로 이전한 후기: 마크다운, 이미지 관리, AI 협업 적응기"
 date: 2026-02-12 23:53 +0900
 categories:
   - Daily
 tags:
   - 블로그
 image: /assets/img/posts/2026-02-12-moving-from-tistory-to-github-blog/20260213002248.webp
-description: "티스토리에서 GitHub Pages 블로그로 옮기며 마크다운, 이미지 자산 관리, Jekyll 설정, AI 협업으로 적응한 과정을 정리한 전환 기록입니다."
+description: "티스토리에서 GitHub Pages 블로그로 옮기며 마크다운 글쓰기, 이미지 자산 관리, Jekyll 설정, AI 협업으로 적응한 과정을 정리한 이전 후기입니다."
 ---
 오랫동안 정들었던 티스토리(Tistory)를 뒤로하고, 깃허브 블로그(GitHub Pages)로 하나하나 발자국을 옮겨 보고 있습니다.
 단순한 '이사'라고 하기보다는, 익숙한 환경을 벗어나 새로운 구조를 다시 익혀 가는 과정에 가깝게 느껴졌습니다.
