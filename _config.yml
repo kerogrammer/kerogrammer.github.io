@@ -191,6 +191,18 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+  - scope:
+      path: "tags"
+    values:
+      sitemap: false
+      seo:
+        noindex: true
+  - scope:
+      path: "categories"
+    values:
+      sitemap: false
+      seo:
+        noindex: true
 
 sass:
   style: compressed

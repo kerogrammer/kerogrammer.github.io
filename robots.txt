@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /archives/
+Allow: /
+
+Sitemap: https://kerogrammer.github.io/sitemap.xml
