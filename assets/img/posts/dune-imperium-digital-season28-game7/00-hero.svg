@@ -1,0 +1,35 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#120d09"/>
+      <stop offset="50%" stop-color="#3b2414"/>
+      <stop offset="100%" stop-color="#8a5a24"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1110 190) rotate(90) scale(260 260)">
+      <stop stop-color="#ffd27a" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#ffd27a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sand" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9b6a34" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#c8904d" stop-opacity="0.4"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f1218"/>
+      <stop offset="100%" stop-color="#232a36"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#sun)"/>
+  <path d="M0 640C176 594 318 565 466 584C623 603 730 696 896 706C1064 717 1224 625 1600 553V900H0V640Z" fill="url(#sand)"/>
+  <path d="M0 734C216 698 336 667 510 695C674 722 784 799 933 807C1127 818 1318 745 1600 671V900H0V734Z" fill="#2a1a10" fill-opacity="0.55"/>
+  <circle cx="1202" cy="214" r="158" stroke="#f2c66d" stroke-opacity="0.18" stroke-width="2"/>
+  <circle cx="1202" cy="214" r="222" stroke="#f2c66d" stroke-opacity="0.12" stroke-width="2"/>
+  <circle cx="1202" cy="214" r="290" stroke="#f2c66d" stroke-opacity="0.08" stroke-width="2"/>
+  <path d="M182 747L365 336L540 747H466L423 642H286L245 747H182ZM309 589H400L356 484L309 589Z" fill="#f2c66d" fill-opacity="0.18"/>
+  <rect x="850" y="168" width="478" height="248" rx="18" fill="url(#card)" fill-opacity="0.88" stroke="#f2c66d" stroke-opacity="0.28"/>
+  <text x="892" y="238" fill="#f0d8a8" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="30" font-weight="700">시즌 28 · 게임 7</text>
+  <text x="892" y="302" fill="#fff7ea" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="58" font-weight="800">10점 동점 접전</text>
+  <text x="892" y="372" fill="#f2c66d" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="36" font-weight="700">스파이스 우위로 1등</text>
+  <text x="893" y="468" fill="#e4c891" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="24">듄 임페리움 소규모 전투 시즌 28</text>
+  <text x="893" y="512" fill="#cda35b" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="22">헬레나 리체스 · 불멸 확장 · 운까지 따라준 막판 승리</text>
+</svg>
