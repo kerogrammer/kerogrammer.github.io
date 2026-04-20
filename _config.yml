@@ -42,13 +42,13 @@ social:
 # Site Verification Settings
 webmaster_verifications:
   google: '-AQKlahWh9anzOsmm8Hiiv29QyAOQK2zNzWvaVW4zHY'
-  bing: # fill in your Bing verification code
+  bing: 1607D2F49287517C5766790B6FD32278 # Bing 웹마스터 도구 검증 코드 추가
   alexa: # fill in your Alexa verification code
-  yandex: # fill in your Yandex verification code
+  yandex: 735627ed08135961 # 얀덱스(Yandex) 웹마스터 도구 검증 코드 추가
   baidu: # fill in your Baidu verification code
   facebook: # fill in your Facebook verification code
   naver: 1c4e137688d46052ea701a640c8ff0dd1a18b8c9 # 네이버 서치어드바이저 검증 완료
-  daum: # 다음/티스토리 검색 등록용 코드
+  daum: 293bebd06c16cca5ccf14e4257e9deef5d866c3a7bab442f8cc403858745e34a # 다음 웹마스터 도구 검증용 PIN 코드 추가
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
