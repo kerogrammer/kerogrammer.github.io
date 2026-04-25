@@ -5,7 +5,7 @@ date: 2026-04-26 01:00:00 +0900
 categories: [Game, Boardgame]
 tags: [듄임페리움, 듄임페리움디지털, 소규모전투, 시즌28, 헬레나리체스, 보드게임]
 image:
-  path: /assets/img/posts/dune-imperium-digital-season28-game8/00-hero.svg
+  path: /assets/img/posts/dune-imperium-digital-season28-game8/00-hero.webp
   alt: 듄 임페리움 소규모 전투 시즌 28 게임 8, 44점 시즌 최고 점수 달성 썸네일
 description: "듄 임페리움 디지털판 소규모 전투 시즌 28 게임 8 후기. '영원한 전쟁' 모디파이어 속에서 탐험과 프레멘 카드의 시너지를 극대화하여 44점이라는 시즌 최고 점수를 기록한 짜릿한 승리 기록입니다."
 author: kerogrammer
@@ -153,7 +153,7 @@ series: "듄 임페리움 소규모전투 시즌 28"
 
 > 게임 7에서 10점 3인 동점이라는 피말리는 접전을 겪었던 것이 엊그제 같은데, 이번 게임 8에서는 완전히 다른 양상이 펼쳐졌습니다. **시즌 28 역대 최고 점수인 44점**을 기록하며 그야말로 무대를 지배했습니다. 헬레나 리체스와 함께한 이번 대승의 기록을 공유합니다.
 
-![듄 임페리움 시즌28 게임8 대표 이미지](/assets/img/posts/dune-imperium-digital-season28-game8/00-hero.svg)
+![듄 임페리움 시즌28 게임8 대표 이미지](/assets/img/posts/dune-imperium-digital-season28-game8/00-hero.webp)
 *게임 8의 압도적인 성과를 보여주는 대표 이미지. 무려 44점이라는 시즌 최고 점수를 달성했습니다.*
 
 ---
