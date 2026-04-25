@@ -1,0 +1,60 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0d14"/>
+      <stop offset="40%" stop-color="#1a1208"/>
+      <stop offset="100%" stop-color="#c5893a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 450) rotate(0) scale(600 400)">
+      <stop stop-color="#ffd700" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#ffd700" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="sun" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1300 120) rotate(90) scale(280 280)">
+      <stop stop-color="#ffd27a" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ffd27a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sand" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#9b6a34" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#c8904d" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f1218"/>
+      <stop offset="100%" stop-color="#232a36"/>
+    </linearGradient>
+    <linearGradient id="gold-shine" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffd700"/>
+      <stop offset="50%" stop-color="#ffed8a"/>
+      <stop offset="100%" stop-color="#daa520"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#glow)"/>
+  <rect width="1600" height="900" fill="url(#sun)"/>
+  <path d="M0 660C200 610 380 575 520 600C680 628 790 720 950 730C1100 739 1280 640 1600 570V900H0V660Z" fill="url(#sand)"/>
+  <path d="M0 750C240 710 380 685 550 710C720 738 820 810 970 820C1150 832 1350 760 1600 690V900H0V750Z" fill="#2a1a10" fill-opacity="0.55"/>
+  <!-- Decorative circles -->
+  <circle cx="1300" cy="150" r="140" stroke="#f2c66d" stroke-opacity="0.15" stroke-width="2"/>
+  <circle cx="1300" cy="150" r="200" stroke="#f2c66d" stroke-opacity="0.1" stroke-width="2"/>
+  <circle cx="1300" cy="150" r="270" stroke="#f2c66d" stroke-opacity="0.06" stroke-width="2"/>
+  <!-- Trophy icon -->
+  <path d="M230 260L270 180H370L410 260L350 340H290L230 260Z" fill="url(#gold-shine)" fill-opacity="0.12" stroke="#ffd700" stroke-opacity="0.3" stroke-width="1.5"/>
+  <text x="275" y="280" fill="#ffd700" fill-opacity="0.25" font-family="Pretendard, sans-serif" font-size="58" font-weight="800">★</text>
+  <!-- Score badge -->
+  <rect x="120" y="550" width="160" height="90" rx="12" fill="#ffd700" fill-opacity="0.12" stroke="#ffd700" stroke-opacity="0.3" stroke-width="1.5"/>
+  <text x="200" y="600" fill="#ffd700" fill-opacity="0.5" font-family="Pretendard, sans-serif" font-size="44" font-weight="800" text-anchor="middle">44점</text>
+  <text x="200" y="628" fill="#e4c891" fill-opacity="0.4" font-family="Pretendard, sans-serif" font-size="14" text-anchor="middle">시즌 최고 점수</text>
+  <!-- Main card -->
+  <rect x="450" y="140" width="700" height="340" rx="20" fill="url(#card)" fill-opacity="0.92" stroke="#f2c66d" stroke-opacity="0.32" stroke-width="1.5"/>
+  <text x="500" y="215" fill="#f0d8a8" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="30" font-weight="700">시즌 28 · 게임 8</text>
+  <text x="500" y="295" fill="#fff7ea" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="62" font-weight="800">44점, 시즌 최고!</text>
+  <text x="500" y="365" fill="#ffd700" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="36" font-weight="700">12점 달성으로 압도적 1위</text>
+  <text x="500" y="430" fill="#e4c891" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="24">듄 임페리움 소규모 전투 시즌 28</text>
+  <text x="500" y="465" fill="#cda35b" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-size="21">헬레나 리체스 · 영원한 전쟁 · 탐험과 프레멘의 시너지</text>
+  <!-- Decorative sand particles -->
+  <circle cx="380" cy="780" r="2" fill="#f2c66d" fill-opacity="0.3"/>
+  <circle cx="520" cy="750" r="1.5" fill="#f2c66d" fill-opacity="0.25"/>
+  <circle cx="680" cy="770" r="2.5" fill="#f2c66d" fill-opacity="0.2"/>
+  <circle cx="920" cy="740" r="1.8" fill="#f2c66d" fill-opacity="0.3"/>
+  <circle cx="1100" cy="760" r="2" fill="#f2c66d" fill-opacity="0.25"/>
+  <circle cx="1350" cy="720" r="1.5" fill="#f2c66d" fill-opacity="0.2"/>
+</svg>

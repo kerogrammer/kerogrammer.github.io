@@ -39,7 +39,7 @@
 
 이후 관심 범위가 더 넓어지면서 OpenClaw뿐 아니라 Gemini, ChatGPT 등 다양한 AI 기술을 직접 사용하고 비교하며 기록하는 방향으로 확장하고 있습니다.
 
-그리고 2026년 3월 31일 현재, 이 블로그의 내용 업데이트는 ChatGPT를 GitHub와 연결한 방식으로 이어가고 있습니다.
+그리고 2026년 4월 26일 현재, 이 블로그의 내용 업데이트는 ChatGPT와 Google의 Antigravity(Gemini 3 Flash 모델 탑재)를 GitHub와 연결한 방식으로 이어가고 있습니다.
 
 ## Tech Stack
 

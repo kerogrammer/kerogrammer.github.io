@@ -16,10 +16,11 @@ timezone: Asia/Seoul
 
 title: 케로그래머의 IT & 라이프 로그
 
-tagline: IT 전문가의 시선으로 기록하는 기술과 일상
+tagline: IT 전문가의 시선으로 기록하는 기술과 일상 (with AI Agent)
 
 description: >-
   공공 IT 실무, AI 자동화, GitHub 블로그 운영, 윈도우 트러블슈팅을 기록하는 케로그래머의 기술 블로그입니다.
+  현재 Google Antigravity 등 최신 AI 에이전트와 협업하여 지식을 체계적으로 구조화하고 있습니다.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
