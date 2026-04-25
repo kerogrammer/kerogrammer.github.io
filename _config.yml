@@ -195,14 +195,26 @@ defaults:
       path: "tags"
     values:
       sitemap: false
-      seo:
-        noindex: true
+      robots: 'noindex, follow'
   - scope:
       path: "categories"
     values:
       sitemap: false
-      seo:
-        noindex: true
+      robots: 'noindex, follow'
+  - scope:
+      path: "archives"
+    values:
+      sitemap: false
+      robots: 'noindex, follow'
+  - scope:
+      path: "page*"
+    values:
+      sitemap: false
+      robots: 'noindex, follow'
+  - scope:
+      path: "yandex_*.html"
+    values:
+      sitemap: false
 
 sass:
   style: compressed

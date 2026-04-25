@@ -1,14 +1,11 @@
 ---
 permalink: /robots.txt
+sitemap: false
 ---
-
-User-agent: Googlebot
-Allow: /
-
-User-agent: Yeti
-Allow: /
 
 User-agent: *
 Allow: /
 
-Sitemap: https://kerogrammer.github.io/sitemap.xml
+Sitemap: {{ '/sitemap.xml' | absolute_url }}
+
+#DaumWebMasterTool:293bebd06c16cca5ccf14e4257e9deef5d866c3a7bab442f8cc403858745e34a:lnJIfW6J3SEu/tDeE4/ZJg==

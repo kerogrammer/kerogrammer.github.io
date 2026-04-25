@@ -9,6 +9,16 @@
     content="width=device-width, user-scalable=no initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
   >
 
+  {%- assign robots_meta = page.robots -%}
+  {%- if robots_meta == nil or robots_meta == empty -%}
+    {%- if page.noindex or page.seo.noindex -%}
+      {%- assign robots_meta = 'noindex, follow' -%}
+    {%- endif -%}
+  {%- endif -%}
+  {%- if robots_meta and robots_meta != empty -%}
+    <meta name="robots" content="{{ robots_meta }}">
+  {%- endif -%}
+
   {%- capture seo_tags -%}
     {% seo title=false %}
   {%- endcapture -%}
