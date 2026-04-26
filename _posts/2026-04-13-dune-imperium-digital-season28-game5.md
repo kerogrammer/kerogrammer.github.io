@@ -5,7 +5,7 @@ date: 2026-04-13 22:00:00 +0900
 categories: [Game, Boardgame]
 tags: [듄임페리움, 듄임페리움디지털, 소규모전투, 시즌28, 레토아트레이데스, 보드게임]
 image:
-  path: /assets/img/posts/dune-imperium-digital-season28-game5/01-modifiers.webp
+  path: /assets/img/posts/dune-imperium-digital-season28-game5/00-hero.svg
   alt: 듄 임페리움 소규모전투 시즌 28 게임 5
 description: "듄 임페리움 디지털판 소규모 전투 시즌 28 게임 5 후기. 「우주 정치학」 규칙 모디파이어가 생산한 초단기 7라운드 게임. 레토 아트레이드 공작의 인장 반지로 팩션 영향력을 선점하며 12승점 압도적 1위를 차지한 플레이 기록."
 author: kerogrammer

@@ -5,7 +5,7 @@ date: 2022-07-04 22:47:00 +0900
 categories: [Career, Study]
 tags: [정보관리기술사, 불합격후기, 기술사시험, 멘탈관리, Q-Net]
 image:
-  path: /assets/img/posts/pe-exam-failure-record/thumbnail.webp
+  path: /assets/img/posts/pe-exam-failure-record/thumbnail.svg
   alt: "정보관리기술사 시험 공부와 멘탈 관리를 상징하는 이미지"
 description: "2021년 한 해 동안 도전했던 정보관리기술사 123회, 124회, 125회 시험의 연속 불합격 기록입니다. 실패를 마주하는 덤덤한 마음가짐과 다시 시작하는 각오를 공유합니다."
 ---

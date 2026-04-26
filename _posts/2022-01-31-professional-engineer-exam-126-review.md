@@ -5,7 +5,7 @@ date: 2022-01-31 13:33:00 +0900
 categories: [Career, Study]
 tags: [정보관리기술사, 126회기술사, 필기후기, 시험복기, 기술사공부]
 image:
-  path: /assets/img/posts/pe-exam-126-review/thumbnail.webp
+  path: /assets/img/posts/pe-exam-126-review/thumbnail.svg
   alt: "정보관리기술사 126회 시험 복기를 상징하는 이미지"
 description: "지난 125회 시험의 충격을 뒤로하고 마주한 126회 정보관리기술사 필기시험. 각 교시별 선택 문제와 전략, 그리고 현장에서의 생생한 복기 기록을 공유합니다."
 ---

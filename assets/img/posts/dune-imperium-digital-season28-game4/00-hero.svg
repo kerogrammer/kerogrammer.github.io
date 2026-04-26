@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">듄 임페리움 시즌28 게임4 썸네일</title>
+  <desc id="desc">헬레나 리체스의 전술 승리를 전략 보드와 왕관으로 표현한 썸네일</desc>
+  <rect width="1200" height="630" fill="#172554"/>
+  <path d="M0 430c210-64 362-40 544 24 224 78 410 54 656-54v230H0z" fill="#a16207"/>
+  <g transform="translate(730 150)">
+    <rect x="0" y="0" width="306" height="306" rx="32" fill="#f8fafc" opacity=".94"/>
+    <path d="M62 205l46-88 56 54 78-104 28 138z" fill="#eab308"/>
+    <circle cx="108" cy="116" r="16" fill="#f59e0b"/>
+    <circle cx="164" cy="170" r="16" fill="#f59e0b"/>
+    <circle cx="242" cy="66" r="16" fill="#f59e0b"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#fff">
+    <text x="92" y="154" font-size="40" font-weight="700">Season 28 · Game 4</text>
+    <text x="92" y="260" font-size="80" font-weight="800">1등을 위한</text>
+    <text x="92" y="356" font-size="80" font-weight="800">헬레나 전술</text>
+    <text x="92" y="448" font-size="56" font-weight="700" fill="#fde68a">승리의 설계도</text>
+  </g>
+</svg>

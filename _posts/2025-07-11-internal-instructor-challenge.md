@@ -4,9 +4,9 @@ title: "고민할 바엔, 신청부터! 나의 첫 사내강사 도전기"
 date: 2025-07-11 12:00:00 +0900
 categories: [Career, Essay]
 tags: [사내강사, 자기계발, 성장, 도전, 사내교육, 사내강사모집]
-# image:
-#   path: /assets/img/posts/2025-07-11-internal-instructor-challenge/thumbnail.webp
-#   alt: "고민할 바엔, 신청부터! 나의 첫 사내강사 도전기 썸네일"
+image:
+  path: /assets/img/posts/2025-07-11-internal-instructor-challenge/thumbnail.svg
+  alt: "고민할 바엔, 신청부터! 나의 첫 사내강사 도전기 썸네일"
 description: "망설임 끝에 도전한 첫 사내강사 신청기입니다. 지식을 나누며 성장하고자 하는 열정과 그 시작을 기록했습니다."
 ---
 

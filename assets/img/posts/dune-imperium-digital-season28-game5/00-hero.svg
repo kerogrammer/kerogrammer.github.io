@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">듄 임페리움 시즌28 게임5 썸네일</title>
+  <desc id="desc">우주 정치학과 7라운드 승부를 행성 궤도와 결전 타이포로 표현한 썸네일</desc>
+  <rect width="1200" height="630" fill="#111827"/>
+  <circle cx="874" cy="300" r="154" fill="#7c2d12"/>
+  <circle cx="874" cy="300" r="220" fill="none" stroke="#f59e0b" stroke-width="6" opacity=".58"/>
+  <circle cx="1012" cy="170" r="28" fill="#fbbf24"/>
+  <path d="M0 470c188-74 340-62 560 26 210 84 382 52 640-66v200H0z" fill="#92400e"/>
+  <g font-family="Arial, sans-serif" fill="#fff">
+    <text x="92" y="154" font-size="40" font-weight="700">Season 28 · Game 5</text>
+    <text x="92" y="260" font-size="84" font-weight="800">우주</text>
+    <text x="92" y="356" font-size="84" font-weight="800">정치학</text>
+    <text x="92" y="448" font-size="56" font-weight="700" fill="#fed7aa">7라운드의 승부</text>
+  </g>
+</svg>

@@ -5,7 +5,7 @@ date: 2026-04-10 01:00:00 +0900
 categories: [Game, Boardgame]
 tags: [듄임페리움, 듄임페리움디지털, 소규모전투, 시즌28, 헬레나리체스, 보드게임]
 image:
-  path: /assets/img/posts/dune-imperium-digital-season28-game3/01-modifiers.webp
+  path: /assets/img/posts/dune-imperium-digital-season28-game3/00-hero.svg
   alt: 듄 임페리움 소규모전투 시즌 28 게임 3
 description: "듄 임페리움 디지털판 소규모 전투 시즌 28 게임 3 후기입니다. 언더독 모디파이어를 활용한 헬레나 리체스의 짜릿한 승리와 긴장감 넘치는 전투 기록을 남깁니다."
 author: kerogrammer

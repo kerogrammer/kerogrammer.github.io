@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">듄 임페리움 시즌28 게임3 썸네일</title>
+  <desc id="desc">언더독의 반란과 역전승을 사막의 상승 궤적으로 표현한 썸네일</desc>
+  <rect width="1200" height="630" fill="#0f172a"/>
+  <path d="M0 456c190-98 342-92 520-18 238 98 410 58 680-74v266H0z" fill="#b45309"/>
+  <path d="M84 474c160-120 314-164 470-136 164 30 246-12 354-138" fill="none" stroke="#22c55e" stroke-width="24" stroke-linecap="round"/>
+  <path d="M878 178l54 12-18 54" fill="none" stroke="#22c55e" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="Arial, sans-serif" fill="#fff">
+    <text x="92" y="154" font-size="40" font-weight="700">Season 28 · Game 3</text>
+    <text x="92" y="260" font-size="84" font-weight="800">언더독의</text>
+    <text x="92" y="356" font-size="84" font-weight="800">반란</text>
+    <text x="92" y="448" font-size="56" font-weight="700" fill="#bbf7d0">짜릿한 역전승</text>
+  </g>
+</svg>

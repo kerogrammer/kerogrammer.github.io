@@ -4,9 +4,9 @@ title: "공공기관 전산직도 예산 짜나요? 네, 부서의 살림살이 
 date: 2025-07-09 12:00:00 +0900
 categories: [Career, Work]
 tags: [공공기관, 전산직, 예산관리, 부서운영, 살림살이, 직무경험, 커뮤니케이션]
-# image:
-#   path: /assets/img/posts/2025-07-09-public-it-budget-management/thumbnail.webp
-#   alt: "공공기관 전산직 예산 관리 업무 썸네일"
+image:
+  path: /assets/img/posts/2025-07-09-public-it-budget-management/thumbnail.svg
+  alt: "공공기관 전산직 예산 관리 업무 썸네일"
 description: "전산직이라는 타이틀 뒤에 가려진, 하지만 부서 운영의 핵심인 예산 관리 업무에 대한 생생한 경험을 공유합니다. 1년 살림을 계획하고 소통하는 과정에서의 깨달음을 담았습니다."
 ---
 

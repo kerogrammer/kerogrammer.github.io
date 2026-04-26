@@ -5,7 +5,7 @@ date: 2026-04-12 02:00:00 +0900
 categories: [Game, Boardgame]
 tags: [듄임페리움, 듄임페리움디지털, 소규모전투, 시즌28, 헬레나리체스, 틀레이락스, 보드게임]
 image:
-  path: /assets/img/posts/dune-imperium-digital-season28-game4/01-modifiers.webp
+  path: /assets/img/posts/dune-imperium-digital-season28-game4/00-hero.svg
   alt: 듄 임페리움 소규모전투 시즌 28 게임 4
 description: "듄 임페리움 디지털판 소규모 전투 시즌 28 게임 4 후기입니다. 점거 계획 모디파이어 아래 틀레이락스 카드를 집중 수집하며 길드 카드를 챙기는 전략으로 13승점 압도적 1위를 거머쥔 플레이 기록입니다."
 author: kerogrammer

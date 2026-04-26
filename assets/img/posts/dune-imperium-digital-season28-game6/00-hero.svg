@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">듄 임페리움 시즌28 게임6 썸네일</title>
+  <desc id="desc">황제를 등지고 우주로 항해한 게임6을 항로와 별빛으로 표현한 썸네일</desc>
+  <rect width="1200" height="630" fill="#020617"/>
+  <g fill="#fff" opacity=".55">
+    <circle cx="174" cy="96" r="4"/><circle cx="360" cy="168" r="3"/><circle cx="612" cy="88" r="5"/><circle cx="980" cy="140" r="4"/><circle cx="1044" cy="330" r="3"/>
+  </g>
+  <path d="M0 480c170-88 322-82 522-14 230 78 430 58 678-58v222H0z" fill="#0f766e"/>
+  <path d="M684 380c108-82 212-156 342-220" fill="none" stroke="#67e8f9" stroke-width="18" stroke-linecap="round"/>
+  <path d="M1004 148l38 8-14 36" fill="none" stroke="#67e8f9" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="Arial, sans-serif" fill="#fff">
+    <text x="92" y="154" font-size="40" font-weight="700">Season 28 · Game 6</text>
+    <text x="92" y="260" font-size="78" font-weight="800">황제를</text>
+    <text x="92" y="352" font-size="78" font-weight="800">등지고</text>
+    <text x="92" y="444" font-size="56" font-weight="700" fill="#a5f3fc">우주를 항해하다</text>
+  </g>
+</svg>

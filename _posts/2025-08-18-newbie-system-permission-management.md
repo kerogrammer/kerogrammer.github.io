@@ -5,6 +5,9 @@ date: 2025-08-18 12:00:00 +0900
 categories: [Career, Work]
 tags: [공공기관, 정보화사업, 권한관리, 보안, 최소권한의원칙, 로그관리]
 description: "새로운 인력이 합류할 때마다 벌어지는 시스템 권한 부여의 긴박한 과정과 정보 보안의 대원칙인 '최소 권한의 원칙'에 대해 다룹니다."
+image:
+  path: /assets/img/posts/2025-08-18-newbie-system-permission-management/thumbnail.svg
+  alt: "신규 투입 인력의 시스템 권한 관리와 최소 권한 원칙을 나타내는 썸네일"
 ---
 
 ## "새로운 동료가 합류했습니다"

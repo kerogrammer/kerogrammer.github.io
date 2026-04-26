@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">듄 임페리움 시즌28 게임2 썸네일</title>
+  <desc id="desc">익스와 모디파이어 사이에서 흔들린 게임2를 표현한 사막 전략 썸네일</desc>
+  <rect width="1200" height="630" fill="#1f2937"/>
+  <path d="M0 428c188-72 336-42 514 18s356 72 686-46v230H0z" fill="#d97706"/>
+  <path d="M0 500c244-70 418-24 620 36 184 55 322 48 580-44v138H0z" fill="#92400e"/>
+  <circle cx="960" cy="126" r="74" fill="#fbbf24" opacity=".88"/>
+  <g font-family="Arial, sans-serif" fill="#fff">
+    <text x="92" y="160" font-size="40" font-weight="700">Season 28 · Game 2</text>
+    <text x="92" y="266" font-size="84" font-weight="800">익스와</text>
+    <text x="92" y="362" font-size="84" font-weight="800">모디파이어</text>
+    <text x="92" y="454" font-size="56" font-weight="700" fill="#fde68a">사이에서 방황하다</text>
+  </g>
+  <g transform="translate(760 278)" fill="none" stroke="#fde68a" stroke-width="16" stroke-linecap="round">
+    <path d="M0 100h248M56 30l72 70-72 70M188 30l-72 70 72 70"/>
+  </g>
+</svg>

@@ -5,7 +5,7 @@ date: 2026-04-07 13:00:00 +0900
 categories: [Game, Boardgame]
 tags: [듄임페리움, 듄임페리움디지털, 소규모전투, 시즌28, 아먼드에카드, 보드게임]
 image:
-  path: /assets/img/posts/dune-imperium-digital-season28-game2/01-skirmish-rules.webp
+  path: /assets/img/posts/dune-imperium-digital-season28-game2/00-hero.svg
   alt: 듄 임페리움 디지털판 시즌 28 게임 2 개요 화면
 description: "듄 임페리움 디지털판 소규모 전투 시즌 28 게임 2를 아먼드 에카드 대공으로 플레이한 기록입니다. 하역 효과와 익스 확장 사이에서 갈등하다 결국 아쉬운 점수로 마무리했습니다."
 author: kerogrammer
