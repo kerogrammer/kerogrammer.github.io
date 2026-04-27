@@ -5,7 +5,7 @@ date: 2026-04-27 00:30:00 +0900
 categories: [Game, Boardgame]
 tags: [듄임페리움, 듄임페리움디지털, 소규모전투, 시즌28, 헬레나리체스, 보드게임]
 image:
-  path: /assets/img/posts/dune-imperium-digital-season28-game9/dune-imperium-s28-g9-01.webp
+  path: /assets/img/posts/dune-imperium-digital-season28-game9/dune-imperium-s28-g9-thumbnail.webp
   alt: 듄 임페리움 소규모 전투 시즌 28 게임 9 썸네일
 description: "듄 임페리움 디지털판 소규모 전투 시즌 28 게임 9 후기. 물 자원 소비와 우주 항행 길드를 활용하는 전략 속에서 헬레나 리체스로 마지막 라운드 극적인 역전승을 거둔 기록입니다."
 author: kerogrammer
@@ -153,8 +153,8 @@ series: "듄 임페리움 소규모전투 시즌 28"
 
 > 시즌 중반까지 4~500등 대에 머무르며 고전했지만, 후반부에 접어들며 게임의 감을 제대로 잡아가고 있습니다. 이번 게임 9에서는 물 자원과 길드 카드를 영리하게 활용하여, 마지막 10라운드의 숨 막히는 동점 상황에서 극적인 역전 1위를 달성했습니다. 실버 등급 마무리가 가시권에 들어온 이번 게임의 기록을 남깁니다.
 
-![듄 임페리움 시즌28 게임9 대표 이미지](/assets/img/posts/dune-imperium-digital-season28-game9/dune-imperium-s28-g9-01.webp)
-*물 자원 소비가 핵심이었던 게임 9. 헬레나 리체스의 안정적인 운영이 빛을 발했습니다.*
+![듄 임페리움 시즌28 게임9 대표 이미지](/assets/img/posts/dune-imperium-digital-season28-game9/dune-imperium-s28-g9-thumbnail.webp)
+*물 자원 소비와 길드 전략이 핵심이었던 게임 9. 헬레나 리체스로 당당히 1위를 차지했습니다.*
 
 ---
 
