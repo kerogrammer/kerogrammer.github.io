@@ -8,8 +8,8 @@ Efficient image management is crucial for blog performance and organization.
 - **Quality**: Target a quality setting of 80 to balance size and visual fidelity.
 
 ## Organization
-- Images MUST be stored in a sub-folder named after the post slug:
-  `assets/img/posts/{post-slug}/`
+- Images MUST be stored in a sub-folder named with the post date and slug:
+  `assets/img/posts/YYYY-MM-DD-{post-slug}/`
 - The main thumbnail should be named `thumbnail.webp`.
 
 ## Metadata and Accessibility
