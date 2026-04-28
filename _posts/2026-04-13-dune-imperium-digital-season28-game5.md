@@ -1,15 +1,15 @@
-﻿---
+---
 layout: post
-title: "???꾪럹由ъ? ?붿??명뙋 ?쒖쫵 28 寃뚯엫 5 ?뚮젅??湲곕줉 - ?뚯슦二??뺤튂?쇻띿씠 媛瑜?7?쇱슫?쒖쓽 ?밸?"
+title: "듄 임페리움 디지털판 시즌 28 게임 5 플레이 기록 - 「우주 정치학」이 가른 7라운드의 승부"
 date: 2026-04-13 22:00:00 +0900
 categories: [Game, Boardgame]
-tags: [?꾩엫?섎━?, ?꾩엫?섎━??붿??? ?뚭퇋紐⑥쟾?? ?쒖쫵28, ?덊넗?꾪듃?덉씠?곗뒪, 蹂대뱶寃뚯엫]
+tags: [듄임페리움, 듄임페리움디지털, 소규모전투, 시즌28, 레토아트레이데스, 보드게임]
 image:
   path: /assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/00-hero.svg
-  alt: ???꾪럹由ъ? ?뚭퇋紐⑥쟾???쒖쫵 28 寃뚯엫 5
-description: "???꾪럹由ъ? ?붿??명뙋 ?뚭퇋紐??꾪닾 ?쒖쫵 28 寃뚯엫 5 ?꾧린. ?뚯슦二??뺤튂?쇻?洹쒖튃 紐⑤뵒?뚯씠?닿? ?앹궛??珥덈떒湲?7?쇱슫??寃뚯엫. ?덊넗 ?꾪듃?덉씠??怨듭옉???몄옣 諛섏?濡??⑹뀡 ?곹뼢?μ쓣 ?좎젏?섎ŉ 12?뱀젏 ?뺣룄??1?꾨? 李⑥????뚮젅??湲곕줉."
+  alt: 듄 임페리움 소규모전투 시즌 28 게임 5
+description: "듄 임페리움 디지털판 소규모 전투 시즌 28 게임 5 후기. 「우주 정치학」 규칙 모디파이어가 생산한 초단기 7라운드 게임. 레토 아트레이드 공작의 인장 반지로 팩션 영향력을 선점하며 12승점 압도적 1위를 차지한 플레이 기록."
 author: kerogrammer
-series: "???꾪럹由ъ? ?뚭퇋紐⑥쟾???쒖쫵 28"
+series: "듄 임페리움 소규모전투 시즌 28"
 ---
 
 <style>
@@ -239,312 +239,312 @@ series: "???꾪럹由ъ? ?뚭퇋紐⑥쟾???쒖쫵 28"
   }
 </style>
 
-> ?쒖쫵 28, 68??543??. 寃뚯엫 4???ъ슫??梨?媛?쒓린???꾩뿉 **寃뚯엫 5**媛 ?쒖옉?섏뿀?듬땲?? ?대쾲 ?먯? 泥섏쓬遺??臾댁뼵媛 ?щ옄?듬땲??
+> 시즌 28, 68점(543위). 게임 4의 여운이 채 가시기도 전에 **게임 5**가 시작되었습니다. 이번 판은 처음부터 무언가 달랐습니다.
 
 ---
 
-## ?뱶 ?대쾲 ?먯쓽 洹쒖튃: ?뚯슦二??뺤튂?쇻띿씠 留뚮뱺 ?대??곸씤 ??
+## 📜 이번 판의 규칙: 「우주 정치학」이 만든 이례적인 판
 
-![?뚭퇋紐⑥쟾???쒖쫵28 寃뚯엫5 洹쒖튃 紐⑤뵒?뚯씠??(/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/01-modifiers.webp)
-<div class="img-caption">?쒖쫵 28 쨌 寃뚯엫 5 ??洹쒖튃 諛??쒖쐞??紐⑤뵒?뚯씠??/div>
+![소규모전투 시즌28 게임5 규칙 모디파이어](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/01-modifiers.webp)
+<div class="img-caption">시즌 28 · 게임 5 — 규칙 및 순위표 모디파이어</div>
 
 <div class="dune-box">
-  <div class="dune-box-title">??寃뚯엫 5 紐⑤뵒?뚯씠???붿빟</div>
+  <div class="dune-box-title">⚙ 게임 5 모디파이어 요약</div>
   <div class="dune-modifier-grid">
     <div class="dune-modifier-item rule">
-      <span class="dune-modifier-label">?뱦 洹쒖튃 紐⑤뵒?뚯씠??/span>
+      <span class="dune-modifier-label">📌 규칙 모디파이어</span>
       <div class="dune-modifier-value">
-        <strong style="color:#ffd700;">?곗＜ ?뺤튂??/strong><br>
-        ?⑹뀡 ?숇㏏??留븐쓣 ??<span class="dune-modifier-badge">?붾씪由?+慣</span> 異붽? 吏湲?
+        <strong style="color:#ffd700;">우주 정치학</strong><br>
+        팩션 동맹을 맺을 때 <span class="dune-modifier-badge">솔라리 +α</span> 추가 지급
       </div>
     </div>
     <div class="dune-modifier-item">
-      <span class="dune-modifier-label">?뱤 議곕떖 (Procurement)</span>
+      <span class="dune-modifier-label">📊 조달 (Procurement)</span>
       <div class="dune-modifier-value">
-        ?띾뱷 ?④낵濡??띾뱷??移대뱶 ???λ떦 <span class="dune-modifier-badge">+1??/span>
+        획득 효과로 획득한 카드 한 장당 <span class="dune-modifier-badge">+1점</span>
       </div>
     </div>
     <div class="dune-modifier-item">
-      <span class="dune-modifier-label">?뱤 ?꾩꽕 (Legend)</span>
+      <span class="dune-modifier-label">📊 전설 (Legend)</span>
       <div class="dune-modifier-value">
-        ?깆뿉 ?덈뒗 ?ㅼ엫??罹먮┃????紐낅떦 <span class="dune-modifier-badge">+1??/span>
+        덱에 있는 네임드 캐릭터 한 명당 <span class="dune-modifier-badge">+1점</span>
       </div>
     </div>
   </div>
 </div>
 
-?대쾲 ?먯쓽 ?듭떖 ?ㅼ썙?쒕뒗 **?뚯슦二??뺤튂?쇻?*?낅땲?? 洹쒖튃 紐⑤뵒?뚯씠?닿? "?⑹뀡 ?숇㏏ 泥닿껐 ???붾씪由щ? 異붽? 吏湲??섎룄濡?諛붽씀?? ?뚯씠釉??꾩쓽 ??븰 愿怨꾧? ?꾩쟾???ㅼ쭛?붿뒿?덈떎.
+이번 판의 핵심 키워드는 **「우주 정치학」**입니다. 규칙 모디파이어가 "팩션 동맹 체결 시 솔라리를 추가 지급"하도록 바꾸자, 테이블 위의 역학 관계가 완전히 뒤집혔습니다.
 
-?쇰컲?곸씤 寃뚯엫?먯꽌???숇㏏蹂대떎 ?꾪닾?먯꽌 ?뱀젏??二꾩뼱紐⑥쑝??寃??곗꽑?댁?留? ?대쾲 ?먯뿉?쒕뒗 **?⑹뀡 ?곹뼢?μ쓣 鍮좊Ⅴ寃??щ젮 ?숇㏏??癒쇱? 留븍뒗 寃?*???붾씪由??섍툒怨?吏곴껐?⑸땲?? 寃곌뎅 ??紐낆쓽 吏?꾩옄 紐⑤몢媛 ?숇㏏?????좉꼍??吏묒쨷?섎㈃??寃뚯엫 ?띾룄媛 鍮꾩젙?곸쟻?쇰줈 鍮⑤씪議뚭퀬, ?덉젙??10?쇱슫?쒓? ?꾨땶 **??7?쇱슫??留뚯뿉 ?뱀젏 10?먯쓣 ?뚰뙆??吏?꾩옄媛 ?섏?** 寃뚯엫??醫낅즺?섏뿀?듬땲??
+일반적인 게임에서는 동맹보다 전투에서 승점을 죄어모으는 게 우선이지만, 이번 판에서는 **팩션 영향력을 빠르게 올려 동맹을 먼저 맺는 것**이 솔라리 수급과 직결됩니다. 결국 네 명의 지도자 모두가 동맹에 온 신경을 집중하면서 게임 속도가 비정상적으로 빨라졌고, 예정된 10라운드가 아닌 **단 7라운드 만에 승점 10점을 돌파한 지도자가 나와** 게임이 종료되었습니다.
 
-?쒖쐞???먯닔 紐⑤뵒?뚯씠??**議곕떖**, **?꾩꽕**) ?먰븳 ??援ъ꽦??吏곸젒?곸씤 ?곹뼢??誘몄낀吏留? ?대쾲 ?먯? ?닿쾬?ㅼ쓣 梨숆만 ?ъ쑀議곗감 ?놁쓣 留뚰겮 ?뺤튂?꾩씠 移섏뿴?섍쾶 ?쇱퀜議뚯뒿?덈떎.
+순위표 점수 모디파이어(**조달**, **전설**) 또한 덱 구성에 직접적인 영향을 미쳤지만, 이번 판은 이것들을 챙길 여유조차 없을 만큼 정치전이 치열하게 펼쳐졌습니다.
 
 ---
 
-## ?몣 ?덊넗 ?꾪듃?덉씠??怨듭옉???좏깮???댁쑀
+## 👑 레토 아트레이드 공작을 선택한 이유
 
-![吏?꾩옄 ?좏깮 ?붾㈃: ?덊넗 ?꾪듃?덉씠??怨듭옉](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/02-leader-selection.webp)
-<div class="img-caption">?대쾲 ?먯뿉?쒕뒗 ?щ젅??由ъ껜??????꾪듃?덉씠??媛臾몄쓽 怨듭옉???좏깮?덉뒿?덈떎.</div>
+![지도자 선택 화면: 레토 아트레이드 공작](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/02-leader-selection.webp)
+<div class="img-caption">이번 판에서는 헬레나 리체스 대신 아트레이드 가문의 공작을 선택했습니다.</div>
 
-?대쾲 ?먯? ?됱냼 利먭꺼 ?곕뜕 **?щ젅??由ъ껜??*媛 ?꾨땶, **?덊넗 ?꾪듃?덉씠??怨듭옉**???좏깮?덉뒿?덈떎. ?댁쑀?????섎굹, 洹몄쓽 **?몄옣 諛섏?(Signet Ring) ?λ젰** ?뚮Ц?낅땲??
+이번 판은 평소 즐겨 쓰던 **헬레나 리체스**가 아닌, **레토 아트레이드 공작**을 선택했습니다. 이유는 단 하나, 그의 **인장 반지(Signet Ring) 능력** 때문입니다.
 
-> *"?ㅽ뙆?댁뒪 1媛쒕? 吏遺덊븯硫? ?섎낫???곹뼢?μ씠 ?믪? ?⑹뀡?먯꽌 ?곹뼢??1???띾뱷?⑸땲??"*
+> *"스파이스 1개를 지불하면, 나보다 영향력이 높은 팩션에서 영향력 1을 획득합니다."*
 
-?뚯슦二??뺤튂?쇻띿씠 ?숇㏏???붾씪由?蹂대꼫?ㅻ? ?뱀뼱二쇰뒗 ?먯뿉?? ?ㅽ뙆?댁뒪 ??議곌컖?쇰줈 ?ㅼ쿂吏??⑹뀡 ?곹뼢?μ쓣 ?곕씪?≪쓣 ???덈뒗 ???λ젰? **援ъ“???곗쐞**瑜??좎젏?섍쾶 ?댁쨳?덈떎. 鍮좊Ⅴ寃??щ윭 ?⑹뀡 ?숇㏏??留븐쓣?섎줉 ?붾씪由ш? ?볦씠怨? ?볦씤 ?붾씪由щ줈 ?ㅼ떆 醫뗭? 移대뱶瑜?援щℓ???좎닚?섏쓣 留뚮뱶??寃껋씠 ?대쾲 ?먯쓽 ?듭떖 ?꾨왂?댁뿀?듬땲??
+「우주 정치학」이 동맹에 솔라리 보너스를 얹어주는 판에서, 스파이스 한 조각으로 뒤처진 팩션 영향력을 따라잡을 수 있는 이 능력은 **구조적 우위**를 선점하게 해줍니다. 빠르게 여러 팩션 동맹을 맺을수록 솔라리가 쌓이고, 쌓인 솔라리로 다시 좋은 카드를 구매해 선순환을 만드는 것이 이번 판의 핵심 전략이었습니다.
 
-????곷????ㅼ쓬怨?媛숈뒿?덈떎.
+대전 상대는 다음과 같습니다.
 
 <div class="dune-box">
-  <div class="dune-box-title">?대쾲 ??李멸???/div>
+  <div class="dune-box-title">이번 판 참가자</div>
   <table class="dune-score-table">
     <thead>
-      <tr><th>?뚮젅?댁뼱</th><th>吏?꾩옄</th></tr>
+      <tr><th>플레이어</th><th>지도자</th></tr>
     </thead>
     <tbody>
-      <tr><td>?윟 IRIS2025 (??</td><td><strong>?덊넗 ?꾪듃?덉씠??怨듭옉</strong></td></tr>
-      <tr><td>?뵷 AI (?대젮?)</td><td>?뚯떆??踰꾨땲?곗뒪</td></tr>
-      <tr><td>?뵶 AI (?대젮?)</td><td>?쇰컲 由ъ껜??諛깆옉</td></tr>
-      <tr><td>?윞 AI (?대젮?)</td><td>?뚮뱶濡?紐⑤━????먯옉</td></tr>
+      <tr><td>🟢 IRIS2025 (나)</td><td><strong>레토 아트레이드 공작</strong></td></tr>
+      <tr><td>🔵 AI (어려움)</td><td>테시아 버니우스</td></tr>
+      <tr><td>🔴 AI (어려움)</td><td>일반 리체스 백작</td></tr>
+      <tr><td>🟡 AI (어려움)</td><td>헌드로 모리타니 자작</td></tr>
     </tbody>
   </table>
 </div>
 
 ---
 
-## ?뷂툘 7?쇱슫?쒖쓽 湲곕줉: 吏㏐퀬 媛뺣젹?덈뜕 ?밸?
+## ⚔️ 7라운드의 기록: 짧고 강렬했던 승부
 
-### 1?쇱슫?? 泥??? 洹몃━怨??몄옣 諛섏???泥?踰덉㎏ ?쒖슜
+### 1라운드: 첫 패, 그리고 인장 반지의 첫 번째 활용
 
-![1?쇱슫??寃뚯엫 蹂대뱶](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/03-round1-start.webp)
-<div class="img-caption">?쇱슫??1 쨌 ?뚭퇋紐??꾪닾 1/10 ?쒖떆 ???쒖옉 ?먰뙣: ?④?, ?⑸━??二쇱옣, ?щ쭑 ?됱꽦 ?? ?④?, ?몄옣 諛섏?</div>
+![1라운드 게임 보드](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/03-round1-start.webp)
+<div class="img-caption">라운드 1 · 소규모 전투 1/10 표시 — 시작 손패: 단검, 합리적 주장, 사막 행성 듄, 단검, 인장 반지</div>
 
-![1?쇱슫?? ?몄옣 諛섏? ?λ젰 ?ъ슜](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/04-round1-combat.webp)
-<div class="img-caption">?뚮젅???꾪듃?덉씠??怨듭옉?띿쓽 ?몄옣 諛섏? ?λ젰 ???ㅽ뙆?댁뒪 1媛쒕줈 ?섏퐫?㉱룸퉬???⑹뀡 ?곹뼢???띾뱷</div>
+![1라운드: 인장 반지 능력 사용](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/04-round1-combat.webp)
+<div class="img-caption">「레토 아트레이드 공작」의 인장 반지 능력 — 스파이스 1개로 하코넨·비소 팩션 영향력 획득</div>
 
-?먰뙣?먯꽌 **?뚯씤??諛섏???*媛 蹂댁씠?먮쭏???꾨왂 諛⑺뼢???뺤젙?섏뿀?듬땲?? 移대뱶瑜?蹂대뱶濡??대㈃???몄옣 諛섏? ?λ젰??利됱떆 諛쒕룞?? ?곗＜ ??뻾 湲몃뱶???곹뼢?μ쓣 ?щ젮?볦븯?듬땲?? ?댁そ??癒쇱? ?곹뼢??2媛쒕? 留뚮뱾?댁빞 2移?臾댁뿭???????덇린 ?뚮Ц?댁뿀二?
+손패에서 **「인장 반지」**가 보이자마자 전략 방향이 확정되었습니다. 카드를 보드로 내면서 인장 반지 능력을 즉시 발동해, 우주 항행 길드의 영향력을 올려놓았습니다. 이쪽에 먼저 영향력 2개를 만들어야 2칸 무역을 할 수 있기 때문이었죠.
 
-**1?쇱슫???뚭퇋紐??꾪닾 寃곌낵:**
+**1라운드 소규모 전투 결과:**
 
-![1?쇱슫??寃곌낵](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/05-round1-result.webp)
-<div class="img-caption">?쇱슫??1 寃곌낵 ???쇰컲 由ъ껜??諛깆옉 1??(?꾪닾??8), ?뚮뱶濡?紐⑤━???2??(?꾪닾??4)</div>
+![1라운드 결과](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/05-round1-result.webp)
+<div class="img-caption">라운드 1 결과 — 일반 리체스 백작 1위 (전투력 8), 헌드로 모리타니 2위 (전투력 4)</div>
 
-1?쇱슫???꾪닾???쇱컡媛먯튂 ?섏쓣 類먯뒿?덈떎. 由ъ껜??諛깆옉??8?먯씠???잛븘遺?쇰ŉ 移섍퀬 ?섍????ъ씠, ????곹뼢???뺣낫???꾨뀗?섎ŉ ?댁떎??梨숆꼈二?
-
----
-
-### 2?쇱슫?? 移대Ⅴ?洹?怨듭꽦?????뚯떆?꾩쓽 湲곗뒿
-
-![2?쇱슫??寃뚯엫 蹂대뱶](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/06-round2-start.webp)
-<div class="img-caption">?쇱슫??2 쨌 遺꾩웳: 移대Ⅴ?洹?怨듭꽦?????꾩옱 ?ㅽ뙆?댁뒪 0, ?붾씪由?1 蹂댁쑀</div>
-
-2?쇱슫?쒕뒗 ?붾씪由?7媛쒕씪???먮몣???먯썝?쇰줈 ?쒖옉?덉뒿?덈떎. 遺꾩웳? **移대Ⅴ?洹?怨듭꽦??*. ?대쾲?먮룄 ?꾪닾蹂대떎??移대뱶 援щℓ? ?곹뼢?μ뿉 吏묒쨷?덉뒿?덈떎.
-
-**2?쇱슫??寃곌낵:**
-
-![2?쇱슫??寃곌낵](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/07-round2-result.webp)
-<div class="img-caption">?쇱슫??2 寃곌낵 ???뚯떆??踰꾨땲?곗뒪 1??(?꾪닾??10), ?쇰컲 由ъ껜??2??(?꾪닾??4)</div>
-
-?뚯떆??踰꾨땲?곗뒪媛 ?꾪닾??**10??*??愿대젰?쇰줈 移대Ⅴ?洹몃? 李⑥??덉뒿?덈떎. ?닿? ?몃┛ 嫄??꾪닾媛 ?꾨땲??移대Ⅴ?洹??꾪닾 ?꾩쨷 ?뚯씤??諛섏??띾? ??踰????쒖슜???볦븘?щ┛ ?⑹뀡 ?곹뼢?μ씠?덉뒿?덈떎.
+1라운드 전투는 일찌감치 힘을 뺐습니다. 리체스 백작이 8점이나 쏟아부으며 치고 나가는 사이, 저는 영향력 확보에 전념하며 내실을 챙겼죠.
 
 ---
 
-### 3?쇱슫?? ?щ쭑???????쒕뵒??泥?踰덉㎏ 1??
+### 2라운드: 카르타그 공성전 — 테시아의 기습
 
-![3?쇱슫??寃뚯엫 蹂대뱶](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/08-round3-start.webp)
-<div class="img-caption">?쇱슫??3 쨌 遺꾩웳: ?щ쭑???????ㅽ뙆?댁뒪 7, ?붾씪由?0. ?몄옣 諛섏? ??踰????쒖슜 以鍮?</div>
+![2라운드 게임 보드](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/06-round2-start.webp)
+<div class="img-caption">라운드 2 · 분쟁: 카르타그 공성전 — 현재 스파이스 0, 솔라리 1 보유</div>
 
-3?쇱슫?? 遺꾩웳? **?щ쭑????*. ?ш린??洹몃룞??紐⑥븘???먯썝怨??꾪닾?μ쓣 泥섏쓬?쇰줈 ?잛븘遺?덉뒿?덈떎.
+2라운드는 솔라리 7개라는 두둑한 자원으로 시작했습니다. 분쟁은 **카르타그 공성전**. 이번에도 전투보다는 카드 구매와 영향력에 집중했습니다.
 
-**3?쇱슫??寃곌낵:**
+**2라운드 결과:**
 
-![3?쇱슫??寃곌낵](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/09-round3-result.webp)
-<div class="img-caption">?쇱슫??3 寃곌낵 ???쪍 IRIS2025 1??(?꾪닾??8), ?뚯떆??2??(?꾪닾??6), ?뚮뱶濡?3??(?꾪닾??2)</div>
+![2라운드 결과](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/07-round2-result.webp)
+<div class="img-caption">라운드 2 결과 — 테시아 버니우스 1위 (전투력 10), 일반 리체스 2위 (전투력 4)</div>
+
+테시아 버니우스가 전투력 **10점**의 괴력으로 카르타그를 차지했습니다. 내가 노린 건 전투가 아니라 카르타그 전투 도중 「인장 반지」를 한 번 더 활용해 쌓아올린 팩션 영향력이었습니다.
+
+---
+
+### 3라운드: 사막의 힘 — 드디어 첫 번째 1위!
+
+![3라운드 게임 보드](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/08-round3-start.webp)
+<div class="img-caption">라운드 3 · 분쟁: 사막의 힘 — 스파이스 7, 솔라리 0. 인장 반지 한 번 더 활용 준비.</div>
+
+3라운드, 분쟁은 **사막의 힘**. 여기서 그동안 모아온 자원과 전투력을 처음으로 쏟아부었습니다.
+
+**3라운드 결과:**
+
+![3라운드 결과](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/09-round3-result.webp)
+<div class="img-caption">라운드 3 결과 — 🥇 IRIS2025 1위 (전투력 8), 테시아 2위 (전투력 6), 헌드로 3위 (전투력 2)</div>
 
 <div class="dune-callout">
-  ?쒕뵒??<strong>泥?踰덉㎏ 1??</strong> ?꾪닾??<strong>8??/strong>?쇰줈 ?뚯떆??踰꾨땲?곗뒪(6??? ?뚮뱶濡?紐⑤━???2??瑜??뚮???<br>
-  蹂댁긽?쇰줈 <strong>?붾씪由?+ 臾?/strong>??梨숆린硫? ?꾩쟻 ?먯닔媛 ?ㅻⅤ湲??쒖옉?덉뒿?덈떎.
+  드디어 <strong>첫 번째 1위!</strong> 전투력 <strong>8점</strong>으로 테시아 버니우스(6점)와 헌드로 모리타니(2점)를 눌렀다.<br>
+  보상으로 <strong>솔라리 + 물</strong>을 챙기며, 누적 점수가 오르기 시작했습니다.
 </div>
 
 ---
 
-### 4?쇱슫?? 異붿븙???섎룄 ???쇰컲 由ъ껜?ㅼ쓽 ??뒿怨??뚮같諛섅?移대뱶
+### 4라운드: 추악한 의도 — 일반 리체스의 역습과 「배반」 카드
 
-![4?쇱슫??寃뚯엫 蹂대뱶](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/10-round4-start.webp)
-<div class="img-caption">?쇱슫??4 쨌 遺꾩웳: 異붿븙???섎룄 ???꾩옱 ?뱀젏 3??3??. ?몄옣 諛섏? ?λ젰 ?ы솢??</div>
+![4라운드 게임 보드](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/10-round4-start.webp)
+<div class="img-caption">라운드 4 · 분쟁: 추악한 의도 — 현재 승점 3점(3위). 인장 반지 능력 재활용.</div>
 
-![4?쇱슫?? ?뚮같諛섅?移대뱶 ?뺤씤](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/11-round4-combat.webp)
-<div class="img-caption">?쒓뎅?댁뿉 ?깆옣???뚮같諛섅?移대뱶 ??"?곹뼢??1???꾨땲??2 ?띾뱷, ??移대뱶 ?먭린. ??蹂묐젰??援먯쟾 移몄뿉 諛곗튂."</div>
+![4라운드: 「배반」 카드 확인](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/11-round4-combat.webp)
+<div class="img-caption">제국열에 등장한 「배반」 카드 — "영향력 1이 아니라 2 획득, 이 카드 폐기. 이 병력을 교전 칸에 배치."</div>
 
-4?쇱슫?쒖뿉???쒓뎅?댁뿉 ?깆옣??寃껋? **?뚮같諛섅?* 移대뱶??듬땲?? ?곹뼢?μ쓣 **2??*???щ젮二쇨퀬 ?ㅼ뒪濡??먭린?섎뒗 ??移대뱶?? ?⑹뀡 ?숇㏏???몃━???대쾲 ?먯뿉???⑷툑媛숈? 移대뱶??듬땲?? ?⑤쾲???곹뼢?????④퀎瑜??뚯뼱?щ┫ ???덈떎???먯? ?숇㏏ 泥닿껐 ??대컢??????욌떦寃⑥＜?덉뒿?덈떎.
+4라운드에서 제국열에 등장한 것은 **「배반」** 카드였습니다. 영향력을 **2점**씩 올려주고 스스로 폐기되는 이 카드는, 팩션 동맹을 노리는 이번 판에서 황금같은 카드였습니다. 단번에 영향력 두 단계를 끌어올릴 수 있다는 점은 동맹 체결 타이밍을 대폭 앞당겨주었습니다.
 
-**4?쇱슫??寃곌낵:**
+**4라운드 결과:**
 
-![4?쇱슫??寃곌낵](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/12-round4-result.webp)
-<div class="img-caption">?쇱슫??4 寃곌낵 ???쇰컲 由ъ껜??諛깆옉 1??(?꾪닾??9), IRIS2025 2??(?꾪닾??5), ?뚮뱶濡?3??(?꾪닾??4)</div>
+![4라운드 결과](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/12-round4-result.webp)
+<div class="img-caption">라운드 4 결과 — 일반 리체스 백작 1위 (전투력 9), IRIS2025 2위 (전투력 5), 헌드로 3위 (전투력 4)</div>
 
-?쇰컲 由ъ껜??諛깆옉???꾪닾??**9??*?쇰줈 1?꾨? 媛?멸컮?듬땲?? ?섎뒗 2???꾪닾??5??濡?**臾?1媛?+ ?뱀젏 1??*???띾뱷?덉뒿?덈떎.
-
----
-
-### 5?쇱슫?? 湲몃뱶 ????듦꺽 ??怨듬룞 2?꾩쓽 ?꾩돩?
-
-![5?쇱슫??寃뚯엫 蹂대뱶](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/13-round5-start.webp)
-<div class="img-caption">?쇱슫??5 쨌 遺꾩웳: 湲몃뱶 ????듦꺽 ???ㅽ뙆?댁뒪 8, ?붾씪由?0. ?뚮같諛섅?移대뱶媛 ?먰뙣???ㅼ뼱?붿뒿?덈떎.</div>
-
-5?쇱슫?? **?뚮같諛섅?* 移대뱶媛 ?쒕뵒?????먯뿉 ?ㅼ뼱?붿뒿?덈떎. ?곹뼢??2?먯쓣 ??踰덉뿉 ?щ┫ ???덈뒗 湲고쉶??듬땲??
-
-**5?쇱슫??寃곌낵:**
-
-![5?쇱슫??寃곌낵: 湲몃뱶 ????듦꺽](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/16-round6-combat.webp)
-<div class="img-caption">湲몃뱶 ????듦꺽 寃곌낵 ??IRIS2025 & ?뚮뱶濡?紐⑤━???怨듬룞 2??(?꾪닾???숈젏 4?먯뵫)</div>
-
-?꾪닾??4?먯뵫?쇰줈 ?섏? ?뚮뱶濡?紐⑤━??덇? **怨듬룞 2??*瑜?湲곕줉?덉뒿?덈떎. ?뚯떆??踰꾨땲?곗뒪媛 ?꾪닾??2?먯쑝濡??ㅽ엳??理쒗븯?? ?λ?濡쒖슫 ?먯? 1?꾧? ?놁뿀?ㅻ뒗 寃???利?理쒕? 蹂댁긽? ?꾨Т??媛?멸?吏 紐삵뻽?듬땲??
+일반 리체스 백작이 전투력 **9점**으로 1위를 가져갔습니다. 나는 2위(전투력 5점)로 **물 1개 + 승점 1점**을 획득했습니다.
 
 ---
 
-### 6?쇱슫?? ?낆젏 嫄곕옒 ???숈젏 ?밸???湲곗닠
+### 5라운드: 길드 은행 습격 — 공동 2위의 아쉬움
 
-![6?쇱슫??寃뚯엫 蹂대뱶](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/17-round6-result.webp)
-<div class="img-caption">?쇱슫??6 쨌 遺꾩웳: ?낆젏 嫄곕옒 ???ㅽ뙆?댁뒪 5, ?붾씪由?3. ?뱀젏 4??1?꾧텒 吏꾩엯 以?</div>
+![5라운드 게임 보드](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/13-round5-start.webp)
+<div class="img-caption">라운드 5 · 분쟁: 길드 은행 습격 — 스파이스 8, 솔라리 0. 「배반」 카드가 손패에 들어왔습니다.</div>
 
-6?쇱슫?쒖쓽 遺꾩웳? **?낆젏 嫄곕옒**. ?대쾲 ?먮????꾪닾????怨듦꺽?곸쑝濡??꾪븯湲??쒖옉?덉뒿?덈떎.
+5라운드, **「배반」** 카드가 드디어 내 손에 들어왔습니다. 영향력 2점을 한 번에 올릴 수 있는 기회였습니다.
 
-7?쇱슫??吏곸쟾 ?곹솴?먯꽌 **?뚯큹癒몃Ⅴ?ㅳ?* 湲곗닠 移대뱶瑜??띾뱷?덉뒿?덈떎(17-round6-result??諛곌꼍 ?붾㈃). ??移대뱶??醫낅즺 ?④퀎?먯꽌 ?숈젏???寃????닿? ?밸━?섎뒗 湲곗닠濡? ?꾨컲 ?묒쟾???鍮꾪븳 ?ъ꽍?댁뿀?듬땲??
+**5라운드 결과:**
 
-**6?쇱슫??寃곌낵:**
+![5라운드 결과: 길드 은행 습격](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/16-round6-combat.webp)
+<div class="img-caption">길드 은행 습격 결과 — IRIS2025 & 헌드로 모리타니 공동 2위 (전투력 동점 4점씩)</div>
 
-?낆젏 嫄곕옒 ?꾪닾?먯꽌 **?꾪닾??9?먯쑝濡?1??*瑜?李⑥??섎ŉ ?붾씪由ъ? 怨듦컻 移대뱶 2?μ쓣 ?띾뱷?덉뒿?덈떎. ?꾩쟻 ?뱀젏??鍮좊Ⅴ寃?移섍퀬 ?щ씪媛怨??덉뿀?듬땲??
+전투력 4점씩으로 나와 헌드로 모리타니가 **공동 2위**를 기록했습니다. 테시아 버니우스가 전투력 2점으로 오히려 최하위. 흥미로운 점은 1위가 없었다는 것 — 즉 최대 보상은 아무도 가져가지 못했습니다.
 
 ---
 
-### ?뵦 7?쇱슫??(?永귝댆): 移대Ⅴ?洹???꾪닾 ??10?뱀젏 ?뚰뙆? 寃뚯엫 醫낅즺
+### 6라운드: 독점 거래 — 동점 승부의 기술
+
+![6라운드 게임 보드](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/17-round6-result.webp)
+<div class="img-caption">라운드 6 · 분쟁: 독점 거래 — 스파이스 5, 솔라리 3. 승점 4점(1위권 진입 중)</div>
+
+6라운드의 분쟁은 **독점 거래**. 이번 판부터 전투에 더 공격적으로 임하기 시작했습니다.
+
+7라운드 직전 상황에서 **「초머르키」** 기술 카드를 획득했습니다(17-round6-result의 배경 화면). 이 카드는 종료 단계에서 동점자 대결 시 내가 승리하는 기술로, 후반 접전을 대비한 포석이었습니다.
+
+**6라운드 결과:**
+
+독점 거래 전투에서 **전투력 9점으로 1위**를 차지하며 솔라리와 공개 카드 2장을 획득했습니다. 누적 승점이 빠르게 치고 올라가고 있었습니다.
+
+---
+
+### 🔥 7라운드 (最終戰): 카르타그 대전투 — 10승점 돌파와 게임 종료
 
 <div class="dune-callout">
-  <strong>?뚯슦二??뺤튂?쇻띿쓽 怨듯룷:</strong> ?⑹뀡 ?숇㏏留덈떎 ?붾씪由ш? 援대윭?ㅼ뼱?ㅼ옄 紐⑤뱺 吏?꾩옄?ㅼ씠 ?곹뼢??寃쎌웳??紐곕몢?덉뒿?덈떎. 洹?寃곌낵, ?뚯떆??踰꾨땲?곗뒪媛 7?쇱슫?쒖뿉 <strong>?뱀젏 10??/strong>???섍린硫?寃뚯엫 醫낅즺 ?몃━嫄곌? 諛쒕룞?섏뿀?듬땲??
+  <strong>「우주 정치학」의 공포:</strong> 팩션 동맹마다 솔라리가 굴러들어오자 모든 지도자들이 영향력 경쟁에 몰두했습니다. 그 결과, 테시아 버니우스가 7라운드에 <strong>승점 10점</strong>을 넘기며 게임 종료 트리거가 발동되었습니다.
 </div>
 
-![7?쇱슫?? ?덊넗???몄옣 諛섏? 留덉?留??쒖슜](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/18-round7-start.webp)
-<div class="img-caption">?쇱슫??7 쨌 移대Ⅴ?洹???꾪닾 ??留덉?留??몄옣 諛섏? ?ъ슜. 踰좊꽕 寃뚯꽭由ы듃쨌?곸쟻議고솕 ?⑹뀡 ?곹뼢???뺣낫.</div>
+![7라운드: 레토의 인장 반지 마지막 활용](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/18-round7-start.webp)
+<div class="img-caption">라운드 7 · 카르타그 대전투 — 마지막 인장 반지 사용. 베네 게세리트·영적조화 팩션 영향력 확보.</div>
 
-![7?쇱슫?? 嫄곕????뚮え 移대뱶 ?뺤씤](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/20-round8-start.webp)
-<div class="img-caption">?묒쟾 以?怨듦컻???뚭굅????뚮え???붿“嫄대? 醫낅즺 ?④퀎 VP 移대뱶. ?뚯떆??踰꾨땲?곗뒪媛 ?대? 遺遺??ъ꽦 ?곹깭??듬땲??</div>
+![7라운드: 거대한 음모 카드 확인](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/20-round8-start.webp)
+<div class="img-caption">접전 중 공개된 「거대한 음모」 —조건부 종료 단계 VP 카드. 테시아 버니우스가 이미 부분 달성 상태였습니다.</div>
 
-![7?쇱슫?? ?ㅽ뙆?댁뒪???섎윭???쒕떎](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/21-round8-combat.webp)
-<div class="img-caption">?쒓뎅?댁뿉 ?뚯뒪?뚯씠?ㅻ뒗 ?섎윭???쒕떎??(鍮꾩슜 9, ?뱀젏 1) ?깆옣. ?ㅻⅨ 吏?꾩옄?ㅼ씠 ?щ젮?ㅼ뿀?듬땲??</div>
+![7라운드: 스파이스는 흘러야 한다](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/21-round8-combat.webp)
+<div class="img-caption">제국열에 「스파이스는 흘러야 한다」 (비용 9, 승점 1) 등장. 다른 지도자들이 달려들었습니다.</div>
 
-7?쇱슫?쒖쓽 遺꾩웳 紐낆묶? **移대Ⅴ?洹???꾪닾**??듬땲?? ?꾩옣? 理쒓퀬議곕줈 ?ъ븘?щ옄?듬땲??
+7라운드의 분쟁 명칭은 **카르타그 대전투**였습니다. 전장은 최고조로 달아올랐습니다.
 
-![7?쇱슫??理쒖쥌 ?꾪닾 ?곹솴](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/24-round9-combat.webp)
-<div class="img-caption">理쒗썑???꾪닾 ?곹솴 ??IRIS2025 ?꾪닾??14?먯쓣 ?ъ엯, 理쒗썑??蹂묐젰 ?꾧컻 以?/div>
+![7라운드 최종 전투 상황](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/24-round9-combat.webp)
+<div class="img-caption">최후의 전투 상황 — IRIS2025 전투력 14점을 투입, 최후의 병력 전개 중</div>
 
-留덉?留??꾪닾?먯꽌???먰뙣??**?뚮같諛섅?*???ы븿??紐⑤뱺 ?먯썝???잛븘遺??**?꾪닾??14??*???ъ엯?덉뒿?덈떎. ?숈떆???깆뿉 ?뚭굅????뚮え???ъ꽦 吏꾪뻾 ?곹솴???뺤씤?섎ŉ 醫낅즺 ?④퀎 蹂대꼫?ㅻ? 理쒕?濡??뚯뼱?щ졇?듬땲??
+마지막 전투에서는 손패의 **「배반」**을 포함한 모든 자원을 쏟아부어 **전투력 14점**을 투입했습니다. 동시에 덱에 「거대한 음모」 달성 진행 상황도 확인하며 종료 단계 보너스를 최대로 끌어올렸습니다.
 
-![移대Ⅴ?洹???꾪닾 寃곌낵](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/27-victory-celebration.webp)
-<div class="img-caption">7?쇱슫??理쒖쥌 寃곌낵 ???뚯떆??踰꾨땲?곗뒪 1??(?꾪닾??19), IRIS2025 2??(?꾪닾??14), ?쇰컲 由ъ껜??3??(?꾪닾??4)</div>
+![카르타그 대전투 결과](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/27-victory-celebration.webp)
+<div class="img-caption">7라운드 최종 결과 — 테시아 버니우스 1위 (전투력 19), IRIS2025 2위 (전투력 14), 일반 리체스 3위 (전투력 4)</div>
 
-留덉?留??꾪닾???뚯떆??踰꾨땲?곗뒪媛 ?꾪닾??**19??*?대씪??寃쎌씠濡쒖슫 ?섏튂濡?1?꾨? 李⑥??덉뒿?덈떎. IRIS2025??2??14??濡??꾩돩?좎?留? **?뱀젏 硫댁뿉?쒕뒗 ?꾪? ?ㅻⅨ ?댁빞湲?*媛 ?쇱퀜議뚯뒿?덈떎.
+마지막 전투는 테시아 버니우스가 전투력 **19점**이라는 경이로운 수치로 1위를 차지했습니다. IRIS2025는 2위(14점)로 아쉬웠지만, **승점 면에서는 전혀 다른 이야기**가 펼쳐졌습니다.
 
 ---
 
-## ?룇 理쒖쥌 寃곌낵: 12?뱀젏 ?뺣룄??1??
+## 🏆 최종 결과: 12승점 압도적 1위
 
-![理쒖쥌 ?밸━ ?붾㈃](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/28-final-score.webp)
-<div class="img-caption">?뚯듅由с???IRIS2025 (?덊넗 ?꾪듃?덉씠??怨듭옉) 理쒖쥌 ?뱀젏 12??/div>
+![최종 승리 화면](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/28-final-score.webp)
+<div class="img-caption">「승리」 — IRIS2025 (레토 아트레이드 공작) 최종 승점 12점</div>
 
 <div class="dune-box">
-  <div class="dune-box-title">?룆 理쒖쥌 理쒖쥌 ?ㅼ퐫?대낫??/div>
+  <div class="dune-box-title">🏅 최종 최종 스코어보드</div>
   <table class="dune-score-table">
     <thead>
       <tr>
-        <th>?쒖쐞</th><th>?뚮젅?댁뼱</th><th>吏?꾩옄</th><th>理쒖쥌 ?뱀젏</th>
+        <th>순위</th><th>플레이어</th><th>지도자</th><th>최종 승점</th>
       </tr>
     </thead>
     <tbody>
       <tr class="winner">
         <td><span class="rank-badge gold">1</span></td>
         <td><strong>IRIS2025</strong></td>
-        <td>?덊넗 ?꾪듃?덉씠??怨듭옉</td>
-        <td><strong>12???룇</strong></td>
+        <td>레토 아트레이드 공작</td>
+        <td><strong>12점 🏆</strong></td>
       </tr>
       <tr>
         <td><span class="rank-badge silver">2</span></td>
-        <td>?뚯떆??踰꾨땲?곗뒪</td>
-        <td>??/td>
-        <td>10??/td>
+        <td>테시아 버니우스</td>
+        <td>—</td>
+        <td>10점</td>
       </tr>
       <tr>
         <td><span class="rank-badge bronze">3</span></td>
-        <td>?뚮뱶濡?紐⑤━????먯옉</td>
-        <td>??/td>
-        <td>5??/td>
+        <td>헌드로 모리타니 자작</td>
+        <td>—</td>
+        <td>5점</td>
       </tr>
       <tr>
         <td><span class="rank-badge fourth">4</span></td>
-        <td>?쇰컲 由ъ껜??諛깆옉</td>
-        <td>??/td>
-        <td>4??/td>
+        <td>일반 리체스 백작</td>
+        <td>—</td>
+        <td>4점</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-**?꾪닾?먯꽌???뚯떆?꾧? 留덉?留??쇱슫?쒕? 吏諛고뻽吏留? ?뱀젏?먯꽌???닿? ?ъ쑀 ?덇쾶 ?욎꽣?듬땲??** ?⑹뀡 ?곹뼢???좎젏怨??숇㏏ ?붾씪由??섍툒, 移대뱶 援щℓ濡??댁뼱吏??좎닚???꾨왂???뺥솗??留욎븘?⑥뼱吏?寃곌낵??듬땲??
+**전투에서는 테시아가 마지막 라운드를 지배했지만, 승점에서는 내가 여유 있게 앞섰습니다.** 팩션 영향력 선점과 동맹 솔라리 수급, 카드 구매로 이어진 선순환 전략이 정확히 맞아떨어진 결과였습니다.
 
 ---
 
-## ?뱤 ?뚭퇋紐??꾪닾 ?쒖쐞???먯닔 & ?쒖쫵 ??궧
+## 📊 소규모 전투 순위표 점수 & 시즌 랭킹
 
-![?뚭퇋紐??꾪닾 ?쒖쐞???먯닔: 21??(/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/30-season-ranking.webp)
-<div class="img-caption">?뚭퇋紐??꾪닾 ?쒖쐞???먯닔: 珥?21??/div>
+![소규모 전투 순위표 점수: 21점](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/30-season-ranking.webp)
+<div class="img-caption">소규모 전투 순위표 점수: 총 21점</div>
 
 <div class="dune-box">
-  <div class="dune-box-title">?뱢 ?대쾲 ???띾뱷 ?먯닔 ?댁뿭</div>
+  <div class="dune-box-title">📈 이번 판 획득 점수 내역</div>
   <div class="score-breakdown">
     <div class="score-item">
-      <span class="score-label">1??蹂댁긽</span>
+      <span class="score-label">1위 보상</span>
       <div class="score-value">+20</div>
-      <div class="score-note">湲곕낯 1???먯닔</div>
+      <div class="score-note">기본 1위 점수</div>
     </div>
     <div class="score-item">
-      <span class="score-label">議곕떖</span>
+      <span class="score-label">조달</span>
       <div class="score-value">+1</div>
-      <div class="score-note">?띾뱷 ?④낵 移대뱶 1??/div>
+      <div class="score-note">획득 효과 카드 1장</div>
     </div>
     <div class="score-item">
-      <span class="score-label">?꾩꽕</span>
+      <span class="score-label">전설</span>
       <div class="score-value">+0</div>
-      <div class="score-note">?ㅼ엫??罹먮┃??誘몃떖??/div>
+      <div class="score-note">네임드 캐릭터 미달성</div>
     </div>
     <div class="score-item" style="border-color:#c5a059;">
-      <span class="score-label" style="color:#c5a059;">?⑷퀎</span>
-      <div class="score-value" style="color:#ffd700;font-size:2rem;">21??/div>
-      <div class="score-note">?대쾲 寃뚯엫 ?띾뱷 ?먯닔</div>
+      <span class="score-label" style="color:#c5a059;">합계</span>
+      <div class="score-value" style="color:#ffd700;font-size:2rem;">21점</div>
+      <div class="score-note">이번 게임 획득 점수</div>
     </div>
   </div>
 </div>
 
-![?쒖쫵 28 ??궧 ?곸꽭](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/31-leaderboard-detail.webp)
-<div class="img-caption">?쒖쫵 28 ??궧蹂대뱶 ??IRIS2025: ?쒖쫵 ?먯닔 89??쨌 寃뚯엫 ?먯닔 21??쨌 ?ㅻ쾭 3媛?쨌 釉뚮줎利?5媛?쨌 494??/div>
+![시즌 28 랭킹 상세](/assets/img/posts/2026-04-13-dune-imperium-digital-season28-game5/31-leaderboard-detail.webp)
+<div class="img-caption">시즌 28 랭킹보드 — IRIS2025: 시즌 점수 89점 · 게임 점수 21점 · 실버 3개 · 브론즈 5개 · 494위</div>
 
 <div class="dune-callout">
-  寃뚯엫 4源뚯????꾩쟻 <strong>68??/strong>???대쾲 <strong>21??/strong>???뷀빐?? ?쒖쫵 ?꾩쟻 ?먯닔??<strong>89??/strong>.<br>
-  ?꾩껜 ??궧? <strong>494??/strong>濡? 留덉묠??<strong>500?꾧텒 ?덉そ</strong>???덉갑?덈떎! ?럦
+  게임 4까지의 누적 <strong>68점</strong>에 이번 <strong>21점</strong>이 더해져, 시즌 누적 점수는 <strong>89점</strong>.<br>
+  전체 랭킹은 <strong>494위</strong>로, 마침내 <strong>500위권 안쪽</strong>에 안착했다! 🎉
 </div>
 
 ---
 
-## ?뱷 留덈Т由?珥앺룊: ?뚯슦二??뺤튂?쇻띿씠 媛瑜댁퀜 以 寃?
+## 📝 마무리 총평: 「우주 정치학」이 가르쳐 준 것
 
-寃뚯엫 4?먯꽌 ??덉씠?쎌뒪 移대뱶瑜?李④끝李④끝 ?볦븘 ?꾨컲 ??컻?μ쑝濡?10?쇱슫?쒕? 媛?멸????꾨왂???쇰떎硫? **寃뚯엫 5???꾩쟾???ㅻⅨ 寃곗쓽 ?먯씠?덉뒿?덈떎.**
+게임 4에서 틀레이락스 카드를 차곡차곡 쌓아 후반 폭발력으로 10라운드를 가져가는 전략을 썼다면, **게임 5는 완전히 다른 결의 판이었습니다.**
 
-?뚯슦二??뺤튂?쇻띿? ?⑥닚???붾씪由щ? ??二쇰뒗 洹쒖튃???꾨땲?덉뒿?덈떎. **紐⑤뱺 吏?꾩옄???뚮젅???ㅽ??쇱쓣 媛뺤젣濡?諛붽퓭踰꾨━??* 硫뷀? 蹂?섏씠?덉뒿?덈떎. 寃곌낵?곸쑝濡?寃뚯엫??7?쇱슫?쒕줈 ?⑥텞?섏뿀怨? ?대뒗 怨?"?꾨컲???곗???鍮뚮뱶"媛 ?꾨땶 "珥덈컲遺???⑥쑉?곸쑝濡??좎젏?섎뒗 ??媛 ?좊━???먯씠?덈떎???살엯?덈떎.
+「우주 정치학」은 단순히 솔라리를 더 주는 규칙이 아니었습니다. **모든 지도자의 플레이 스타일을 강제로 바꿔버리는** 메타 변환이었습니다. 결과적으로 게임이 7라운드로 단축되었고, 이는 곧 "후반에 터지는 빌드"가 아닌 "초반부터 효율적으로 선점하는 자"가 유리한 판이었다는 뜻입니다.
 
-洹??먯뿉??**?덊넗 ?꾪듃?덉씠??怨듭옉???몄옣 諛섏?**???대쾲 紐⑤뵒?뚯씠?댁? ?꾨꼍??沅곹빀??蹂댁??듬땲?? ?ㅽ뙆?댁뒪 ??媛쒕줈 ?곹뼢?μ쓣 異붽꺽?????덈떎???λ젰?, 紐⑤뱺 吏?꾩옄媛 ?⑹뀡 ?곹뼢??寃쎌웳??紐곕몢?섎뒗 ?먯뿉??**鍮꾩슜 ?⑥쑉 理쒓컯??移대뱶**??듬땲??
+그 점에서 **레토 아트레이드 공작의 인장 반지**는 이번 모디파이어와 완벽한 궁합을 보였습니다. 스파이스 한 개로 영향력을 추격할 수 있다는 능력은, 모든 지도자가 팩션 영향력 경쟁에 몰두하는 판에서 **비용 효율 최강의 카드**였습니다.
 
-**?꾩꽕** 紐⑤뵒?뚯씠?대? ?꾪븳 ?ㅼ엫??罹먮┃???섏쭛? ???λ룄 ?ъ꽦?섏? 紐삵뻽??寃껋씠 ?꾩돩???? ?ㅼ쓬 ?먯뿉?쒕뒗 議곕떖怨??꾩꽕 蹂대꼫?ㅻ룄 梨숆만 ???덈뒗 吏?꾩옄? ?꾨왂??怨좊??대낵 寃껋엯?덈떎.
+**전설** 모디파이어를 위한 네임드 캐릭터 수집은 한 장도 달성하지 못했던 것이 아쉬운 점. 다음 판에서는 조달과 전설 보너스도 챙길 수 있는 지도자와 전략을 고민해볼 것입니다.
 
-> ?쒖쫵 28, ?꾩쟻 89?? 494?? ?꾨씪?ㅼ뒪?먯꽌???꾩웳? 怨꾩냽?⑸땲?? ?ㅼ쓬 寃뚯엫?먯꽌??醫뗭? ?깆쟻?쇰줈 ?뚯븘?ㅺ쿋?듬땲?? ?룣截?
+> 시즌 28, 누적 89점. 494위. 아라키스에서의 전쟁은 계속됩니다. 다음 게임에서도 좋은 성적으로 돌아오겠습니다. 🏜️
 
 ---
 
-**P.S.** ???ъ뒪?낆쓽 湲곕줉 ?댄썑 ???먯쓣 ??吏꾪뻾?섏뿬 23?먯쓣 異붽?濡??띾뱷?덉뒿?덈떎. ?곕씪???ㅼ쓬 寃뚯엫 6 ?ъ뒪?낆? 珥앹젏 91?먮????쒖옉???덉젙?낅땲?? 留롮? 湲곕? 遺?곷뱶由쎈땲??
+**P.S.** 이 포스팅의 기록 이후 한 판을 더 진행하여 23점을 추가로 획득했습니다. 따라서 다음 게임 6 포스팅은 총점 91점부터 시작될 예정입니다! 많은 기대 부탁드립니다.
